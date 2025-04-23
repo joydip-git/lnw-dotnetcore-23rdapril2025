@@ -1,0 +1,75 @@
+https://github.com/joydip-git/lnw-dotnetcore-23rdapril2025
+
+.NET Framework (4.6)
+	CLR (4.0.....)
+	.NET BCL/FCL
+	ASP.NET
+	ADO.NET + EF
+
+.Net Core/.NET
+	runtime: .Net Core runtime [console app]
+	1. desktop based: .NET Desktop runtime [winform, wpf]
+	2. web based: ASP.NET Core runtime [Asp.Net Core]
+
+	.Net Core Library
+	ASP.NET Core
+	ADO.NET + EF Core
+
+features:
+	- DI
+	- Logging
+	- Configuration
+	- Hosting	
+
+
+SC => compiler => IL code (output file - .exe/.dll)
+
+mscoree.h => C++ 
+mscoree.dll => Microsoft Common Object Runtime Execution Engine
+
+
+.NET Framework execution cycle
+------------------------------------
+1. Source code is converted to IL Code by compiler (language specific)
+2. the IL code is placed into an output file (.exe/.dll - standard PE win32/64 file)
+3. **if the output file is an exe, double click the same
+4. O/S allocates process memory for the application data and then hands over rest of the responsibilities to a host application
+5. the host appliication process in windows o/s (shim.exe) now uses the functions from mscoree.h (a C++) header file to load specific runtime (mscoree.dll) into the process memory
+6. after CLR has been loaded into the proces memory then an Application Domain is created in that process
+7. in this appdomain the output file is loaded (your app) along with the references libraries
+8. JIT compiler from runtime converts the IL code (only what is required at this moment) to machine level language code
+
+
+.NET Core Framework execution cycle
+------------------------------------
+1. Source code is converted to IL Code by compiler (language specific)
+2. the IL code is placed into an output file (.dll - standard PE win32/64 file). alongside an host app is created (.exe) to host the output file.
+3. click the .exe file
+4. O/S allocates process memory for the application data and then hands over rest of the responsibilities to a host application
+5. the host appliication process loads specific runtime (mscoreei.dll) into the process memory
+6. after CLR has been loaded into the proces memory then an Application Domain is created in that process
+7. in this appdomain the output file is loaded (your app) along with the references libraries
+8. JIT compiler from runtime converts the IL code (only what is required at this moment) to machine level language code
+
+ILDASM => Intermediate Language DisAssembler
+location: C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\
+
+
+assembly (output file) contains
+- IL code
+- Manifest (assembly info)
+- Type Metadata
+- Headers
+	- CLR Header
+	- PE (optional) 32 header
+
+two invisible data members of every class:
+TOP => Type Object Pointer
+SBI => Sync Block Index
+
+
+
+
+
+
+

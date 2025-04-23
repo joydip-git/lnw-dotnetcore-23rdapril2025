@@ -1,0 +1,15 @@
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-1\FirstApp\FirstApp\bin\Debug\net8.0\FirstApp.exe
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-1\FirstApp\FirstApp\bin\Debug\net8.0\FirstApp.deps.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-1\FirstApp\FirstApp\bin\Debug\net8.0\FirstApp.runtimeconfig.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-1\FirstApp\FirstApp\bin\Debug\net8.0\FirstApp.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-1\FirstApp\FirstApp\bin\Debug\net8.0\FirstApp.pdb
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-1\FirstApp\FirstApp\obj\Debug\net8.0\FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-1\FirstApp\FirstApp\obj\Debug\net8.0\FirstApp.AssemblyInfoInputs.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-1\FirstApp\FirstApp\obj\Debug\net8.0\FirstApp.AssemblyInfo.cs
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-1\FirstApp\FirstApp\obj\Debug\net8.0\FirstApp.csproj.CoreCompileInputs.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-1\FirstApp\FirstApp\obj\Debug\net8.0\FirstApp.sourcelink.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-1\FirstApp\FirstApp\obj\Debug\net8.0\FirstApp.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-1\FirstApp\FirstApp\obj\Debug\net8.0\refint\FirstApp.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-1\FirstApp\FirstApp\obj\Debug\net8.0\FirstApp.pdb
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-1\FirstApp\FirstApp\obj\Debug\net8.0\FirstApp.genruntimeconfig.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-1\FirstApp\FirstApp\obj\Debug\net8.0\ref\FirstApp.dll
