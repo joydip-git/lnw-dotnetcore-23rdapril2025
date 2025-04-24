@@ -22,7 +22,21 @@ class ProductBo
 III. Data Access Layer => layer involves operations against the file
 project name: LnW.DotNet.PmsApp.DataAccessLayer 
 project type: class library => .dll
-class ProductDao
+
+sub-folder: Abstractions
+class file: IPmsDao.cs
+namespace:  LnW.DotNet.PmsApp.DataAccessLayer.Abstractions
+interface IPmsDao<T,TId> [Abstractions] where T:class?,new() 
+	=> bool Insert [T p]
+	=> bool Delete [TId id]
+	=> bool Update [TId id, T p]
+	=> IEnumerable<T>? FetchAll []
+	=> T? Fetch  [TId id] 
+
+sub-folder: Implementations
+class file: ProductDao.cs
+namespace:  LnW.DotNet.PmsApp.DataAccessLayer.Implementations
+class ProductDao [Implementations]
 	=> Insert [Product p]
 	=> Delete [string id]
 	=> Update [string id, Product p]
