@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bec298e531dbfa6d3de96927053deac7672c0fbb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0afc31c3c388e538603f47f0c6fe374bf2ef3aa9")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

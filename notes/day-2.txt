@@ -119,6 +119,8 @@ Hosting feature:
 	- File Providers
 	- app lifecycle management (graceful app shutdown)
 
+ServiceLifetime => Singleton, Scoped, Transient
+
 
 Host  and IHost => Generic Host
 
