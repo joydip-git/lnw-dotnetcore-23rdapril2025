@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LnW.DotNet.PmsApp.DataAccessLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f4adf2fb38c1aa3ee1b2390b90af63766285a41")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9941a6e65fcfd2513cfdebb7bc68a3e94ca22b8c")]
 [assembly: System.Reflection.AssemblyProductAttribute("LnW.DotNet.PmsApp.DataAccessLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LnW.DotNet.PmsApp.DataAccessLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
