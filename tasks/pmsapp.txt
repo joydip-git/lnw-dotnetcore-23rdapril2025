@@ -1,0 +1,35 @@
+1,dell xps,100000,...
+
+I. UI: Presentation => input from user and outputing to user
+Console App, Web App, Desktop based etc.
+
+project name: LnW.DotNet.PmsApp.UserInterface
+project type: console app => .dll + .exe
+
+II. Business Layer => layer involves applying business logic against the data fetched from file through DAL etc.
+
+project name: LnW.DotNet.PmsApp.BusinessLayer
+project type: class library => .dll
+class ProductBo
+	=> Add		[Product p]
+	=> Remove	[string id]
+	=> Modify	[string id, Product p]
+	=> GetAll	[choice]
+	=> Get		[string id]
+	=> FilterRecords [criteria]
+
+
+III. Data Access Layer => layer involves operations against the file
+project name: LnW.DotNet.PmsApp.DataAccessLayer 
+project type: class library => .dll
+class ProductDao
+	=> Insert [Product p]
+	=> Delete [string id]
+	=> Update [string id, Product p]
+	=> FetchAll []
+	=> Fetch  [string id] 
+
+Domain Neutral Object/Data Transfer Object/ Data Object/Business Object
+project name: LnW.DotNet.PmsApp.Models/Entities
+project type: class library => .dll
+Product => id, name, desc, price, make, year
