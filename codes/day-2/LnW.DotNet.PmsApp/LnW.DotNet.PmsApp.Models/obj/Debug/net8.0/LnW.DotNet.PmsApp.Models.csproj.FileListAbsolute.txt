@@ -1,0 +1,12 @@
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.Models\bin\Debug\net8.0\LnW.DotNet.PmsApp.Models.deps.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.Models\bin\Debug\net8.0\LnW.DotNet.PmsApp.Models.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.Models\bin\Debug\net8.0\LnW.DotNet.PmsApp.Models.pdb
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.Models\obj\Debug\net8.0\LnW.DotNet.PmsApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.Models\obj\Debug\net8.0\LnW.DotNet.PmsApp.Models.AssemblyInfoInputs.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.Models\obj\Debug\net8.0\LnW.DotNet.PmsApp.Models.AssemblyInfo.cs
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.Models\obj\Debug\net8.0\LnW.DotNet.PmsApp.Models.csproj.CoreCompileInputs.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.Models\obj\Debug\net8.0\LnW.DotNet.PmsApp.Models.sourcelink.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.Models\obj\Debug\net8.0\LnW.DotNet.PmsApp.Models.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.Models\obj\Debug\net8.0\refint\LnW.DotNet.PmsApp.Models.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.Models\obj\Debug\net8.0\LnW.DotNet.PmsApp.Models.pdb
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.Models\obj\Debug\net8.0\ref\LnW.DotNet.PmsApp.Models.dll

@@ -1,0 +1,15 @@
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.UserInterface\bin\Debug\net8.0\LnW.DotNet.PmsApp.UserInterface.exe
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.UserInterface\bin\Debug\net8.0\LnW.DotNet.PmsApp.UserInterface.deps.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.UserInterface\bin\Debug\net8.0\LnW.DotNet.PmsApp.UserInterface.runtimeconfig.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.UserInterface\bin\Debug\net8.0\LnW.DotNet.PmsApp.UserInterface.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.UserInterface\bin\Debug\net8.0\LnW.DotNet.PmsApp.UserInterface.pdb
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.UserInterface\obj\Debug\net8.0\LnW.DotNet.PmsApp.UserInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.UserInterface\obj\Debug\net8.0\LnW.DotNet.PmsApp.UserInterface.AssemblyInfoInputs.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.UserInterface\obj\Debug\net8.0\LnW.DotNet.PmsApp.UserInterface.AssemblyInfo.cs
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.UserInterface\obj\Debug\net8.0\LnW.DotNet.PmsApp.UserInterface.csproj.CoreCompileInputs.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.UserInterface\obj\Debug\net8.0\LnW.DotNet.PmsApp.UserInterface.sourcelink.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.UserInterface\obj\Debug\net8.0\LnW.DotNet.PmsApp.UserInterface.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.UserInterface\obj\Debug\net8.0\refint\LnW.DotNet.PmsApp.UserInterface.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.UserInterface\obj\Debug\net8.0\LnW.DotNet.PmsApp.UserInterface.pdb
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.UserInterface\obj\Debug\net8.0\LnW.DotNet.PmsApp.UserInterface.genruntimeconfig.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.UserInterface\obj\Debug\net8.0\ref\LnW.DotNet.PmsApp.UserInterface.dll

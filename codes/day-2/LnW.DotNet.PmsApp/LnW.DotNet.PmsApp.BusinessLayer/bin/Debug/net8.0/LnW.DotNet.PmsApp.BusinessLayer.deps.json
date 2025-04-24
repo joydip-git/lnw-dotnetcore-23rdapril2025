@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LnW.DotNet.PmsApp.BusinessLayer/1.0.0": {
+        "runtime": {
+          "LnW.DotNet.PmsApp.BusinessLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LnW.DotNet.PmsApp.BusinessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
