@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\DiApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE06800F-CF69-4832-A8C7-4D51C7A637C9}|DiWithHosting\\DiWithHosting.csproj|d:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\diapp\\diwithhosting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE06800F-CF69-4832-A8C7-4D51C7A637C9}|DiWithHosting\\DiWithHosting.csproj|solutionrelative:diwithhosting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE06800F-CF69-4832-A8C7-4D51C7A637C9}|DiWithHosting\\DiWithHosting.csproj|d:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\diapp\\diwithhosting\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE06800F-CF69-4832-A8C7-4D51C7A637C9}|DiWithHosting\\DiWithHosting.csproj|solutionrelative:diwithhosting\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE06800F-CF69-4832-A8C7-4D51C7A637C9}|DiWithHosting\\DiWithHosting.csproj|d:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\diapp\\diwithhosting\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE06800F-CF69-4832-A8C7-4D51C7A637C9}|DiWithHosting\\DiWithHosting.csproj|solutionrelative:diwithhosting\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE06800F-CF69-4832-A8C7-4D51C7A637C9}|DiWithHosting\\DiWithHosting.csproj|d:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\diapp\\diwithhosting\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE06800F-CF69-4832-A8C7-4D51C7A637C9}|DiWithHosting\\DiWithHosting.csproj|solutionrelative:diwithhosting\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\DiApp\\DiWithHosting\\appsettings.json",
+              "RelativeDocumentMoniker": "DiWithHosting\\appsettings.json",
+              "ToolTip": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\DiApp\\DiWithHosting\\appsettings.json",
+              "RelativeToolTip": "DiWithHosting\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-24T10:06:59.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\DiApp\\DiWithHosting\\Repository.cs",
+              "RelativeDocumentMoniker": "DiWithHosting\\Repository.cs",
+              "ToolTip": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\DiApp\\DiWithHosting\\Repository.cs",
+              "RelativeToolTip": "DiWithHosting\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:01:11.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\DiApp\\DiWithHosting\\IRepository.cs",
+              "RelativeDocumentMoniker": "DiWithHosting\\IRepository.cs",
+              "ToolTip": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\DiApp\\DiWithHosting\\IRepository.cs",
+              "RelativeToolTip": "DiWithHosting\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:00:46.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\DiApp\\DiWithHosting\\Program.cs",
+              "RelativeDocumentMoniker": "DiWithHosting\\Program.cs",
+              "ToolTip": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\DiApp\\DiWithHosting\\Program.cs",
+              "RelativeToolTip": "DiWithHosting\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T09:42:58.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

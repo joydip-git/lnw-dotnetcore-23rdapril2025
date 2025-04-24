@@ -1,0 +1,15 @@
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\DiApp\DiApp\bin\Debug\net8.0\DiApp.exe
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\DiApp\DiApp\bin\Debug\net8.0\DiApp.deps.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\DiApp\DiApp\bin\Debug\net8.0\DiApp.runtimeconfig.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\DiApp\DiApp\bin\Debug\net8.0\DiApp.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\DiApp\DiApp\bin\Debug\net8.0\DiApp.pdb
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\DiApp\DiApp\obj\Debug\net8.0\DiApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\DiApp\DiApp\obj\Debug\net8.0\DiApp.AssemblyInfoInputs.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\DiApp\DiApp\obj\Debug\net8.0\DiApp.AssemblyInfo.cs
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\DiApp\DiApp\obj\Debug\net8.0\DiApp.csproj.CoreCompileInputs.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\DiApp\DiApp\obj\Debug\net8.0\DiApp.sourcelink.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\DiApp\DiApp\obj\Debug\net8.0\DiApp.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\DiApp\DiApp\obj\Debug\net8.0\refint\DiApp.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\DiApp\DiApp\obj\Debug\net8.0\DiApp.pdb
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\DiApp\DiApp\obj\Debug\net8.0\DiApp.genruntimeconfig.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\DiApp\DiApp\obj\Debug\net8.0\ref\DiApp.dll

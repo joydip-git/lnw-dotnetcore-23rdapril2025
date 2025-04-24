@@ -1,0 +1,12 @@
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\first_cli_lib\bin\Debug\net8.0\first_cli_lib.deps.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\first_cli_lib\bin\Debug\net8.0\first_cli_lib.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\first_cli_lib\bin\Debug\net8.0\first_cli_lib.pdb
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\first_cli_lib\obj\Debug\net8.0\first_cli_lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\first_cli_lib\obj\Debug\net8.0\first_cli_lib.AssemblyInfoInputs.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\first_cli_lib\obj\Debug\net8.0\first_cli_lib.AssemblyInfo.cs
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\first_cli_lib\obj\Debug\net8.0\first_cli_lib.csproj.CoreCompileInputs.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\first_cli_lib\obj\Debug\net8.0\first_cli_lib.sourcelink.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\first_cli_lib\obj\Debug\net8.0\first_cli_lib.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\first_cli_lib\obj\Debug\net8.0\refint\first_cli_lib.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\first_cli_lib\obj\Debug\net8.0\first_cli_lib.pdb
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\first_cli_lib\obj\Debug\net8.0\ref\first_cli_lib.dll

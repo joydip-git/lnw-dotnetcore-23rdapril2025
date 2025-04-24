@@ -47,3 +47,16 @@ Domain Neutral Object/Data Transfer Object/ Data Object/Business Object
 project name: LnW.DotNet.PmsApp.Models/Entities
 project type: class library => .dll
 Product => id, name, desc, price, make, year
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WQ/ySjM0aTc=",
+  "success": true,
+  "projectFilePath": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\DiApp\\DiAppUsingDependency\\DiAppUsingDependency.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joydip\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.4\\microsoft.extensions.dependencyinjection.9.0.4.nupkg.sha512",
+    "C:\\Users\\joydip\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.4\\microsoft.extensions.dependencyinjection.abstractions.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -44,3 +44,93 @@ The new() constraint can't be combined with the struct or unmanaged constraint. 
 The default constraint can be applied only on override or explicit interface implementations. It can't be combined with either the struct or class constraints.
 The allows ref struct anti-constraint can't be combined with the class or class? constraint.
 The allows ref struct anti-constraint must follow all constraints for that type parameter.
+
+
+NuGet packge link:
+https://api.nuget.org/v3/index.json
+
+
+.NET Dependency Injection support:
+
+package name:
+Microsoft.Extensions.DependencyInjection.Abstraction
+Abstractions:
+IServiceCollection => Registry type abstraction
+IServiceProvider => Container type abstraction
+
+package name:
+Microsoft.Extensions.DependencyInjection
+Implementations:
+ServiceCollection => Registry
+ServiceProvider => Container class
+
+class House
+{
+	public void BuildRoof(){}
+	public void BuildWalls(){}
+}
+class HouseWithSwimmingPool:House
+{
+	public void BuildSwimmingPool(){}
+}
+class HouseWithGarden:HouseWithSwimmingPool
+{
+	public void BuildGarden(){}
+}
+
+class HouseBuilder
+{
+	private static House house;
+	public HouseBuilder()
+	{
+		if(house !=null){ house = new House();}
+	}
+	public HouseBuilder BuildRoof(){ return this;}
+	public HouseBuilder BuildWalls(){}
+	public HouseBuilder BuildSwimmingPool(){}
+	public HouseBuilder BuildGarden(){}
+	public HouseBuilder BuildExtraFloor(){}
+
+	public House Build(){ return house;}
+}
+
+class LuxuryHouseBuilder:HouseBuilder
+{
+	
+}
+
+var hb = new LuxuryHouseBuilder()
+hb
+ .BuildRoof()
+ .BuildWalls()
+ .BuildGarden();
+
+House myhouse = hb.Build();
+
+hb.BuildSwimmingPool();
+myhouse = hb.Build();
+
+
+Hosting feature:
+	- DI support
+	- Logging support
+	- Config support
+	- Diagnostics
+	- File Providers
+	- app lifecycle management (graceful app shutdown)
+
+
+Host  and IHost => Generic Host
+
+HostApplicationBuilder and IHostApplicationBuilder => Generic Host Builder
+
+WebHost => Asp.Net Core Web App Host
+
+abstractions:
+Microsoft.Extensions.Hosting.Abstractions
+
+implementations:
+Microsoft.Extensions.Hosting
+
+
+
