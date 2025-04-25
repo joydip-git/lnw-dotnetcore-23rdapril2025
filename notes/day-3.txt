@@ -1,0 +1,54 @@
+.Net Core DI:
+	1. Manual/explicit 
+	2. with the help of Host
+
+.Net Core Cofifuration:
+	1. Manual/explicit 
+	2. with the help of Host
+
+.Net Core Logging:
+	1. Manual/explicit 
+	2. with the help of Host
+
+Hosting:
+	IHost, Host, HostApplicationBuilder etc.
+
+Service Lifetime => Singleton, Scoped and Transient
+
+IServiceScopeFactory => CreateScope
+ServiceScope => 
+
+Delegate: reference to the method/methods
+
+Callback mechanism
+subscription notification model => event handling
+
+class Facilities{
+	BringWater(int no)
+	GetRemote()
+	GetMarker()
+}
+
+class Assistant
+{
+	//pass method as an argument
+	Assist(?)
+	{
+	}
+}
+
+class Trainer{
+	Assistant assistant = new ();
+	public void UseFacilities()
+	{
+		assistant.Assist();
+	}
+}
+
+
+
+
+
+
+	
+	

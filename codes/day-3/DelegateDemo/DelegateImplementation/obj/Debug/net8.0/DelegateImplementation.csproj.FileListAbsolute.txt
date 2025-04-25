@@ -1,0 +1,15 @@
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\DelegateDemo\DelegateImplementation\obj\Debug\net8.0\DelegateImplementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\DelegateDemo\DelegateImplementation\obj\Debug\net8.0\DelegateImplementation.AssemblyInfoInputs.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\DelegateDemo\DelegateImplementation\obj\Debug\net8.0\DelegateImplementation.AssemblyInfo.cs
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\DelegateDemo\DelegateImplementation\obj\Debug\net8.0\DelegateImplementation.csproj.CoreCompileInputs.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\DelegateDemo\DelegateImplementation\obj\Debug\net8.0\DelegateImplementation.sourcelink.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\DelegateDemo\DelegateImplementation\bin\Debug\net8.0\DelegateImplementation.exe
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\DelegateDemo\DelegateImplementation\bin\Debug\net8.0\DelegateImplementation.deps.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\DelegateDemo\DelegateImplementation\bin\Debug\net8.0\DelegateImplementation.runtimeconfig.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\DelegateDemo\DelegateImplementation\bin\Debug\net8.0\DelegateImplementation.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\DelegateDemo\DelegateImplementation\bin\Debug\net8.0\DelegateImplementation.pdb
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\DelegateDemo\DelegateImplementation\obj\Debug\net8.0\DelegateImplementation.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\DelegateDemo\DelegateImplementation\obj\Debug\net8.0\refint\DelegateImplementation.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\DelegateDemo\DelegateImplementation\obj\Debug\net8.0\DelegateImplementation.pdb
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\DelegateDemo\DelegateImplementation\obj\Debug\net8.0\DelegateImplementation.genruntimeconfig.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\DelegateDemo\DelegateImplementation\obj\Debug\net8.0\ref\DelegateImplementation.dll

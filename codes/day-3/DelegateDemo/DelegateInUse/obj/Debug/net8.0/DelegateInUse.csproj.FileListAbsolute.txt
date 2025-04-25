@@ -1,0 +1,15 @@
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\DelegateDemo\DelegateInUse\bin\Debug\net8.0\DelegateInUse.exe
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\DelegateDemo\DelegateInUse\bin\Debug\net8.0\DelegateInUse.deps.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\DelegateDemo\DelegateInUse\bin\Debug\net8.0\DelegateInUse.runtimeconfig.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\DelegateDemo\DelegateInUse\bin\Debug\net8.0\DelegateInUse.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\DelegateDemo\DelegateInUse\bin\Debug\net8.0\DelegateInUse.pdb
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\DelegateDemo\DelegateInUse\obj\Debug\net8.0\DelegateInUse.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\DelegateDemo\DelegateInUse\obj\Debug\net8.0\DelegateInUse.AssemblyInfoInputs.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\DelegateDemo\DelegateInUse\obj\Debug\net8.0\DelegateInUse.AssemblyInfo.cs
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\DelegateDemo\DelegateInUse\obj\Debug\net8.0\DelegateInUse.csproj.CoreCompileInputs.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\DelegateDemo\DelegateInUse\obj\Debug\net8.0\DelegateInUse.sourcelink.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\DelegateDemo\DelegateInUse\obj\Debug\net8.0\DelegateInUse.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\DelegateDemo\DelegateInUse\obj\Debug\net8.0\refint\DelegateInUse.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\DelegateDemo\DelegateInUse\obj\Debug\net8.0\DelegateInUse.pdb
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\DelegateDemo\DelegateInUse\obj\Debug\net8.0\DelegateInUse.genruntimeconfig.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\DelegateDemo\DelegateInUse\obj\Debug\net8.0\ref\DelegateInUse.dll
