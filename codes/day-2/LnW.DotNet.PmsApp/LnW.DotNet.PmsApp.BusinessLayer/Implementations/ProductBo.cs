@@ -11,7 +11,9 @@ namespace LnW.DotNet.PmsApp.BusinessLayer.Implementations
         //public ProductBo(IPmsDao<Product, string> _pmsDao) => this._pmsDao = _pmsDao;
 
         public bool Add(Product data)
-        {            
+        {   
+            //PRO-0001
+            //PRO-0002 => "0002" => 99
             return false;
         }
 

@@ -1,0 +1,15 @@
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\LINQ_Aggregate\LINQ_Aggregate\bin\Debug\net8.0\LINQ_Aggregate.exe
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\LINQ_Aggregate\LINQ_Aggregate\bin\Debug\net8.0\LINQ_Aggregate.deps.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\LINQ_Aggregate\LINQ_Aggregate\bin\Debug\net8.0\LINQ_Aggregate.runtimeconfig.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\LINQ_Aggregate\LINQ_Aggregate\bin\Debug\net8.0\LINQ_Aggregate.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\LINQ_Aggregate\LINQ_Aggregate\bin\Debug\net8.0\LINQ_Aggregate.pdb
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\LINQ_Aggregate\LINQ_Aggregate\obj\Debug\net8.0\LINQ_Aggregate.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\LINQ_Aggregate\LINQ_Aggregate\obj\Debug\net8.0\LINQ_Aggregate.AssemblyInfoInputs.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\LINQ_Aggregate\LINQ_Aggregate\obj\Debug\net8.0\LINQ_Aggregate.AssemblyInfo.cs
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\LINQ_Aggregate\LINQ_Aggregate\obj\Debug\net8.0\LINQ_Aggregate.csproj.CoreCompileInputs.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\LINQ_Aggregate\LINQ_Aggregate\obj\Debug\net8.0\LINQ_Aggregate.sourcelink.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\LINQ_Aggregate\LINQ_Aggregate\obj\Debug\net8.0\LINQ_Aggregate.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\LINQ_Aggregate\LINQ_Aggregate\obj\Debug\net8.0\refint\LINQ_Aggregate.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\LINQ_Aggregate\LINQ_Aggregate\obj\Debug\net8.0\LINQ_Aggregate.pdb
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\LINQ_Aggregate\LINQ_Aggregate\obj\Debug\net8.0\LINQ_Aggregate.genruntimeconfig.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\LINQ_Aggregate\LINQ_Aggregate\obj\Debug\net8.0\ref\LINQ_Aggregate.dll

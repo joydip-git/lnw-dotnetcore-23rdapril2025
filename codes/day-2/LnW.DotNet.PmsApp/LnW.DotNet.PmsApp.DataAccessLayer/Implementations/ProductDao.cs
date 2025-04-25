@@ -1,6 +1,7 @@
 ﻿using LnW.DotNet.PmsApp.DataAccessLayer.Abstractions;
 using LnW.DotNet.PmsApp.Models;
 
+
 namespace LnW.DotNet.PmsApp.DataAccessLayer.Implementations
 {
     public class ProductDao : IPmsDao<Product, string>

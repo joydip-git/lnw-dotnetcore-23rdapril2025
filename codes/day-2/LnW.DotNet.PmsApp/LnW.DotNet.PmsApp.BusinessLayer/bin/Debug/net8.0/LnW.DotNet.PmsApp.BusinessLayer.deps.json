@@ -17,7 +17,8 @@
       },
       "LnW.DotNet.PmsApp.DataAccessLayer/1.0.0": {
         "dependencies": {
-          "LnW.DotNet.PmsApp.Models": "1.0.0"
+          "LnW.DotNet.PmsApp.Models": "1.0.0",
+          "LnW.DotNet.PmsApp.Repository": "1.0.0"
         },
         "runtime": {
           "LnW.DotNet.PmsApp.DataAccessLayer.dll": {
@@ -29,6 +30,17 @@
       "LnW.DotNet.PmsApp.Models/1.0.0": {
         "runtime": {
           "LnW.DotNet.PmsApp.Models.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "LnW.DotNet.PmsApp.Repository/1.0.0": {
+        "dependencies": {
+          "LnW.DotNet.PmsApp.Models": "1.0.0"
+        },
+        "runtime": {
+          "LnW.DotNet.PmsApp.Repository.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -48,6 +60,11 @@
       "sha512": ""
     },
     "LnW.DotNet.PmsApp.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LnW.DotNet.PmsApp.Repository/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -53,5 +53,7 @@ LINQ: a mechanism/feature to query source of data through
 	a. a series of methods (provided by the source of data , which generally is a collection) => Method Query Syntax
 	b. query style => Query Operator syntax
 
+Roslyn => compiler for C# and VB
+
 
 

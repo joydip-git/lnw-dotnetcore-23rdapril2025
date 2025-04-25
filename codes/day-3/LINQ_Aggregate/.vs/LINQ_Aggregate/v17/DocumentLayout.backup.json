@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-3\\LINQ_Aggregate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC9D7308-EA51-4063-AAB0-84A9B4A85C35}|LINQ_Aggregate\\LINQ_Aggregate.csproj|d:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-3\\linq_aggregate\\linq_aggregate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC9D7308-EA51-4063-AAB0-84A9B4A85C35}|LINQ_Aggregate\\LINQ_Aggregate.csproj|solutionrelative:linq_aggregate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-3\\LINQ_Aggregate\\LINQ_Aggregate\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ_Aggregate\\Program.cs",
+              "ToolTip": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-3\\LINQ_Aggregate\\LINQ_Aggregate\\Program.cs",
+              "RelativeToolTip": "LINQ_Aggregate\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T10:49:47.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

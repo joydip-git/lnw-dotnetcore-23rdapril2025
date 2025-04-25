@@ -16,3 +16,5 @@ D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\LnW.DotNet.PmsApp\LnW.DotNe
 D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.BusinessLayer\bin\Debug\net8.0\LnW.DotNet.PmsApp.DataAccessLayer.pdb
 D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.BusinessLayer\obj\Debug\net8.0\LnW.DotNet.PmsApp.BusinessLayer.csproj.AssemblyReference.cache
 D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.BusinessLayer\obj\Debug\net8.0\LnW.DotN.00E33D9C.Up2Date
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.BusinessLayer\bin\Debug\net8.0\LnW.DotNet.PmsApp.Repository.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-2\LnW.DotNet.PmsApp\LnW.DotNet.PmsApp.BusinessLayer\bin\Debug\net8.0\LnW.DotNet.PmsApp.Repository.pdb

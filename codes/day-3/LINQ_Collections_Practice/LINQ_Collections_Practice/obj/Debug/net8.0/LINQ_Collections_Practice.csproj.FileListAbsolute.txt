@@ -1,0 +1,15 @@
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\LINQ_Collections_Practice\LINQ_Collections_Practice\bin\Debug\net8.0\LINQ_Collections_Practice.exe
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\LINQ_Collections_Practice\LINQ_Collections_Practice\bin\Debug\net8.0\LINQ_Collections_Practice.deps.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\LINQ_Collections_Practice\LINQ_Collections_Practice\bin\Debug\net8.0\LINQ_Collections_Practice.runtimeconfig.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\LINQ_Collections_Practice\LINQ_Collections_Practice\bin\Debug\net8.0\LINQ_Collections_Practice.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\LINQ_Collections_Practice\LINQ_Collections_Practice\bin\Debug\net8.0\LINQ_Collections_Practice.pdb
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\LINQ_Collections_Practice\LINQ_Collections_Practice\obj\Debug\net8.0\LINQ_Collections_Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\LINQ_Collections_Practice\LINQ_Collections_Practice\obj\Debug\net8.0\LINQ_Collections_Practice.AssemblyInfoInputs.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\LINQ_Collections_Practice\LINQ_Collections_Practice\obj\Debug\net8.0\LINQ_Collections_Practice.AssemblyInfo.cs
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\LINQ_Collections_Practice\LINQ_Collections_Practice\obj\Debug\net8.0\LINQ_Collections_Practice.csproj.CoreCompileInputs.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\LINQ_Collections_Practice\LINQ_Collections_Practice\obj\Debug\net8.0\LINQ_Collections_Practice.sourcelink.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\LINQ_Collections_Practice\LINQ_Collections_Practice\obj\Debug\net8.0\LINQ_Collections_Practice.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\LINQ_Collections_Practice\LINQ_Collections_Practice\obj\Debug\net8.0\refint\LINQ_Collections_Practice.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\LINQ_Collections_Practice\LINQ_Collections_Practice\obj\Debug\net8.0\LINQ_Collections_Practice.pdb
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\LINQ_Collections_Practice\LINQ_Collections_Practice\obj\Debug\net8.0\LINQ_Collections_Practice.genruntimeconfig.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-3\LINQ_Collections_Practice\LINQ_Collections_Practice\obj\Debug\net8.0\ref\LINQ_Collections_Practice.dll

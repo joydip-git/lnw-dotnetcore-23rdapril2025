@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-3\\LINQ_Collections_Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D141D29E-39FC-4EA1-91B8-17D0DC93F4C8}|LINQ_Collections_Practice\\LINQ_Collections_Practice.csproj|d:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-3\\linq_collections_practice\\linq_collections_practice\\uiutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D141D29E-39FC-4EA1-91B8-17D0DC93F4C8}|LINQ_Collections_Practice\\LINQ_Collections_Practice.csproj|solutionrelative:linq_collections_practice\\uiutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D141D29E-39FC-4EA1-91B8-17D0DC93F4C8}|LINQ_Collections_Practice\\LINQ_Collections_Practice.csproj|d:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-3\\linq_collections_practice\\linq_collections_practice\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D141D29E-39FC-4EA1-91B8-17D0DC93F4C8}|LINQ_Collections_Practice\\LINQ_Collections_Practice.csproj|solutionrelative:linq_collections_practice\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D141D29E-39FC-4EA1-91B8-17D0DC93F4C8}|LINQ_Collections_Practice\\LINQ_Collections_Practice.csproj|d:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-3\\linq_collections_practice\\linq_collections_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D141D29E-39FC-4EA1-91B8-17D0DC93F4C8}|LINQ_Collections_Practice\\LINQ_Collections_Practice.csproj|solutionrelative:linq_collections_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UiUtility.cs",
+              "DocumentMoniker": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-3\\LINQ_Collections_Practice\\LINQ_Collections_Practice\\UiUtility.cs",
+              "RelativeDocumentMoniker": "LINQ_Collections_Practice\\UiUtility.cs",
+              "ToolTip": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-3\\LINQ_Collections_Practice\\LINQ_Collections_Practice\\UiUtility.cs",
+              "RelativeToolTip": "LINQ_Collections_Practice\\UiUtility.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:42:59.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-3\\LINQ_Collections_Practice\\LINQ_Collections_Practice\\Employee.cs",
+              "RelativeDocumentMoniker": "LINQ_Collections_Practice\\Employee.cs",
+              "ToolTip": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-3\\LINQ_Collections_Practice\\LINQ_Collections_Practice\\Employee.cs",
+              "RelativeToolTip": "LINQ_Collections_Practice\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:14:24.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-3\\LINQ_Collections_Practice\\LINQ_Collections_Practice\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ_Collections_Practice\\Program.cs",
+              "ToolTip": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-3\\LINQ_Collections_Practice\\LINQ_Collections_Practice\\Program.cs",
+              "RelativeToolTip": "LINQ_Collections_Practice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:14:07.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

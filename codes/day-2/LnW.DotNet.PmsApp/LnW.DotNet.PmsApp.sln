@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LnW.DotNet.PmsApp.Models", "LnW.DotNet.PmsApp.Models\LnW.DotNet.PmsApp.Models.csproj", "{865B506F-93E4-4D4F-9867-41DDA36770B6}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LnW.DotNet.PmsApp.BusinessLayer", "LnW.DotNet.PmsApp.BusinessLayer\LnW.DotNet.PmsApp.BusinessLayer.csproj", "{50D46B55-B555-4AD2-80F9-3036CD7239CC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LnW.DotNet.PmsApp.UserInterface", "LnW.DotNet.PmsApp.UserInterface\LnW.DotNet.PmsApp.UserInterface.csproj", "{3B041F7A-C9F5-4BF7-8F87-F56CA8353483}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LnW.DotNet.PmsApp.Repository", "LnW.DotNet.PmsApp.Repository\LnW.DotNet.PmsApp.Repository.csproj", "{9FA2886A-21EE-40AF-A183-2AAEDABA5115}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{3B041F7A-C9F5-4BF7-8F87-F56CA8353483}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B041F7A-C9F5-4BF7-8F87-F56CA8353483}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B041F7A-C9F5-4BF7-8F87-F56CA8353483}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FA2886A-21EE-40AF-A183-2AAEDABA5115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FA2886A-21EE-40AF-A183-2AAEDABA5115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FA2886A-21EE-40AF-A183-2AAEDABA5115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FA2886A-21EE-40AF-A183-2AAEDABA5115}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
