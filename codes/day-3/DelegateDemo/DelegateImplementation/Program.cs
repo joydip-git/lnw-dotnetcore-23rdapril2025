@@ -12,8 +12,16 @@ List<string> names = ["anil", "sunil", "joy", "amit"];
 //LogicInvoker<string, bool> nameWitha = new(Logic.NameContainsA);
 //var result = Filter<string>(names, nameWitha);
 
-LogicInvoker<string> nameStartsWithA =
+//anonymous (in-line) method: a method without a name, which will be written and will be referred immediately then and there by a delegate
+//LogicInvoker<string> nameStartsWithA = delegate (string name)
+//    {
+//        return name[0] == 'a';
+//    };
 
+
+LogicInvoker<int> greaterThanDel = delegate (int num) { return num > 5; };
+
+var result = Filter<string>(names, nameStartsWithA);
 foreach (var item in result)
 {
     Console.WriteLine(item);
@@ -40,12 +48,13 @@ class Logic
 
     public static bool NameContainsA(string name) => name.Contains('a');
 
-    public static bool NameStartsWithA(string name) => name[0] == 'a';
+    //public static bool NameStartsWithA(string name) => name[0] == 'a';
+}
 
-    //delegate bool LogicInvoker(int a);
-    delegate bool LogicInvoker<in T>(T a);
-    //delegate bool Predicate<in T>(T a);
-    delegate TResult LogicInvoker<in T, out TResult>(T a);
+//delegate bool LogicInvoker(int a);
+delegate bool LogicInvoker<in T>(T a);
+//delegate bool Predicate<in T>(T a);
+delegate TResult LogicInvoker<in T, out TResult>(T a);
 
 
 //delegate TResult Func<out TResult>();

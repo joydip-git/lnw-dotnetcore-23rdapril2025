@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5FC7959B-32AF-4883-B915-4F0CE6C20B45}|DelegateImplementation\\DelegateImplementation.csproj|d:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-3\\delegatedemo\\delegateimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FC7959B-32AF-4883-B915-4F0CE6C20B45}|DelegateImplementation\\DelegateImplementation.csproj|solutionrelative:delegateimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB12347A-1B92-4D28-8EC8-77B563658B63}|DelegateInUse\\DelegateInUse.csproj|d:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-3\\delegatedemo\\delegateinuse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB12347A-1B92-4D28-8EC8-77B563658B63}|DelegateInUse\\DelegateInUse.csproj|solutionrelative:delegateinuse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-3\\DelegateDemo\\DelegateInUse\\Program.cs",
-              "RelativeDocumentMoniker": "DelegateInUse\\Program.cs",
-              "ToolTip": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-3\\DelegateDemo\\DelegateInUse\\Program.cs",
-              "RelativeToolTip": "DelegateInUse\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAIwAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T05:43:11.486Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -41,7 +24,7 @@
               "RelativeDocumentMoniker": "DelegateImplementation\\Program.cs",
               "ToolTip": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-3\\DelegateDemo\\DelegateImplementation\\Program.cs",
               "RelativeToolTip": "DelegateImplementation\\Program.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAACoAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-25T05:00:54.601Z",
               "EditorCaption": ""
