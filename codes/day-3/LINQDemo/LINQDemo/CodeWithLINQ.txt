@@ -1,0 +1,18 @@
+﻿List<int> numbers = [0, 3, 1, 5, 4, 6, 2, 9, 7, 8];
+
+//filter the numbers and fetch only even numbers
+//Func<int, bool> evenLogic = delegate (int num) { return num % 2 == 0; };
+Func<int, bool> evenLogic = (num) => num % 2 == 0;
+IEnumerable<int> evenNumbers = numbers.Where(evenLogic);
+
+//sort the even numbers in desc order
+Func<int, int> sortDel = (num) => num;
+IOrderedEnumerable<int> sortedEvenNumbers = evenNumbers.OrderBy(sortDel);
+
+//pick up the first 2 of the even numbers
+//Func<int, bool> isGreaterDel = (num) => num > 2;
+IEnumerable<int> final = sortedEvenNumbers.Take(2);
+
+//display them
+Action<int> printDel = (num) => Console.WriteLine(num);
+final.ToList().ForEach(printDel);

@@ -1,0 +1,45 @@
+﻿List<int> numbers = [0, 3, 1, 5, 4, 6, 2, 9, 7, 8];
+
+//filter the numbers and fetch only even numbers
+//sort the even numbers in desc order
+//pick up the first 2 of the even numbers
+//display them
+
+List<int> evenNumbers = [];
+foreach (var item in numbers)
+{
+    if (item % 2 == 0)
+        evenNumbers.Add(item);
+}
+
+//2. 
+int[] temp = new int[evenNumbers.Count];
+evenNumbers.CopyTo(temp, 0);
+//List<int> sortedEvenNumbers = temp.ToList();
+List<int> sortedEvenNumbers = [.. temp];
+
+for (int i = 0; i < sortedEvenNumbers.Count; i++)
+{
+    for (int j = i + 1; j < sortedEvenNumbers.Count; j++)
+    {
+        if (sortedEvenNumbers[i].CompareTo(sortedEvenNumbers[j]) > 0)
+        {
+            int value = sortedEvenNumbers[i];
+            sortedEvenNumbers[i] = sortedEvenNumbers[j];
+            sortedEvenNumbers[j] = value;
+        }
+    }
+}
+
+//3. 
+List<int> final = [];
+for (int i = 0; i < 3; i++)
+{
+    final.Add(sortedEvenNumbers[i]);
+}
+
+//4. 
+foreach (var item in final)
+{
+    Console.WriteLine(item);
+}

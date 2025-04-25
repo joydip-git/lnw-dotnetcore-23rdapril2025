@@ -13,11 +13,17 @@ List<string> names = ["anil", "sunil", "joy", "amit"];
 //var result = Filter<string>(names, nameWitha);
 
 //anonymous (in-line) method: a method without a name, which will be written and will be referred immediately then and there by a delegate
+
+//1. traditional style
 //LogicInvoker<string> nameStartsWithA = delegate (string name)
 //    {
 //        return name[0] == 'a';
 //    };
 
+
+//2. Lambda expression: a expression style to write anonymous method (3.0 -2007)
+//type inference
+LogicInvoker<string> nameStartsWithA = (name) => name[0] == 'a';
 
 LogicInvoker<int> greaterThanDel = delegate (int num) { return num > 5; };
 

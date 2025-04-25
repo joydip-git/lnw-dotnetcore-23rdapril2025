@@ -34,3 +34,24 @@ LogicInvoker<string> nameStartsWithA = delegate (string name)
 
 LogicInvoker<int> greaterThanDel = delegate (int num) { return num > 5; };
 
+anonymous method with Lambda Expression but without expression-body syntax: [returning value must be done with explicit use of "return" statement]
+LogicInvoker<string> nameStartsWithA =(string name)=>{ return name[0] == 'a';};
+
+
+anonymous method with Lambda Expression but with expression-body syntax: [returning value need not be done with explicit use of "return" statement]
+LogicInvoker<string> nameStartsWithA =(string name)=> name[0] =='a';
+
+
+1. delegate
+2. generic
+3. collections
+4. OOP
+5. new features: var keyword, lambda, extension method, expression syntax etc.
+6. functional programming
+
+LINQ: a mechanism/feature to query source of data through
+	a. a series of methods (provided by the source of data , which generally is a collection) => Method Query Syntax
+	b. query style => Query Operator syntax
+
+
+
