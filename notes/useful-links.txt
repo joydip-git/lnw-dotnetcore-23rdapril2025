@@ -1,1 +1,4 @@
 https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/constraints-on-type-parameters
+
+expression tree and dynamic query:
+https://learn.microsoft.com/en-us/dotnet/csharp/linq/how-to-build-dynamic-queries

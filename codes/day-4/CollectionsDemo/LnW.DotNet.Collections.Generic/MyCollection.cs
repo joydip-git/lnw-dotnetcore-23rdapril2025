@@ -45,5 +45,15 @@ namespace LnW.DotNet.Collections.Generic
             get { return elements[x]; }
             set { elements[x] = value; }
         }
+
+        public void Sort()
+        {
+            if (typeof(T).GetInterface("System.IComparable") != null)
+            {
+                //code for sorting...
+            }
+            else
+                throw new InvalidOperationException();
+        }
     }
 }

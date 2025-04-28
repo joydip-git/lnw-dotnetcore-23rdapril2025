@@ -16,10 +16,12 @@ Console.WriteLine(sunilPerson["name"]);
 //var list = new MyCollection<int>();
 var list = new List<int>();
 list.Add(1);
-list.Add(2);
-list.Add(3);
-list.Add(4);
 list.Add(5);
+list.Add(2);
+list.Add(4);
+list.Add(3);
+
+
 
 for (int i = 0; i < list.Count; i++)
 {
@@ -35,7 +37,7 @@ foreach (int item in list)
 }
 
 Console.WriteLine("\nusing enumerator directly\n");
-
+list.Sort();
 IEnumerator<int> enumerator = list.GetEnumerator();
 
 while (enumerator.MoveNext())
@@ -49,6 +51,8 @@ foreach (var item in numbers)
 {
     Console.WriteLine(item);
 }
+
+//list.OrderBy(x => x);
 list.Clear();
 list = null;
 

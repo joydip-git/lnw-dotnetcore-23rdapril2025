@@ -1,0 +1,15 @@
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-4\CollectionsDemo\SortingDemo\bin\Debug\net8.0\SortingDemo.exe
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-4\CollectionsDemo\SortingDemo\bin\Debug\net8.0\SortingDemo.deps.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-4\CollectionsDemo\SortingDemo\bin\Debug\net8.0\SortingDemo.runtimeconfig.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-4\CollectionsDemo\SortingDemo\bin\Debug\net8.0\SortingDemo.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-4\CollectionsDemo\SortingDemo\bin\Debug\net8.0\SortingDemo.pdb
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-4\CollectionsDemo\SortingDemo\obj\Debug\net8.0\SortingDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-4\CollectionsDemo\SortingDemo\obj\Debug\net8.0\SortingDemo.AssemblyInfoInputs.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-4\CollectionsDemo\SortingDemo\obj\Debug\net8.0\SortingDemo.AssemblyInfo.cs
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-4\CollectionsDemo\SortingDemo\obj\Debug\net8.0\SortingDemo.csproj.CoreCompileInputs.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-4\CollectionsDemo\SortingDemo\obj\Debug\net8.0\SortingDemo.sourcelink.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-4\CollectionsDemo\SortingDemo\obj\Debug\net8.0\SortingDemo.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-4\CollectionsDemo\SortingDemo\obj\Debug\net8.0\refint\SortingDemo.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-4\CollectionsDemo\SortingDemo\obj\Debug\net8.0\SortingDemo.pdb
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-4\CollectionsDemo\SortingDemo\obj\Debug\net8.0\SortingDemo.genruntimeconfig.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-4\CollectionsDemo\SortingDemo\obj\Debug\net8.0\ref\SortingDemo.dll

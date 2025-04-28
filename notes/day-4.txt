@@ -22,6 +22,94 @@ IEnumerator		IEnumerator<T>
 
 IList			IList<T>
 
+int x = 10;
+int y = 5;
+
+if(x.CompareTo(y)>0)
+
+struct Int32:IComparable
+{
+
+}
+
+Sorting a list:
+1. internalization of comparison: writing the logic of compraison between two instances of same type inside the type itself, hrough CompareTo method from IComparable interface is known as internalization of comparison
+
+System:
+IComparable interface:
+int CompareTo(object? obj)
+
+IComparable<T> interface:
+int CompareTo(T? obj)
+
+class T:IComparable<T>
+{
+	public int CompareTo(T? obj)
+}
+
+disadvantages:
+	a. author of the entity might have NOT implemented the IComparable/IComparable<T>
+	b. criteria/choice based sorting is almost impossible, hence the choice taken from user has to be passed inside the entity
+
+2.A. externalization of comparison: writing the logic of compraison between two instances of same type in a separate type through Compare() method from IComparer interface is known as internalization of comparison
+
+System.Collections:
+IComparer => int Compare(object? x, object? y)
+
+System.Collections.Generic:
+IComparer<T> => int Compare(T? x, T? y)
+
+
+class TSorter:IComparer<T>
+{
+	public int Compare(T? x, T? y){return 0;}	
+}
+
+advantages:
+	a. if author of the entity have NOT implemented the IComparable/IComparable<T>, it is no lonegr an issue as you can create a type implementing IComparer interface and having the same comparison logic inside the compare() method as you has inside CompareTo()
+	b. criteria/choice based sorting is possible here
+
+2.B. sorting using delegate (Comparison<T>):
+delegate int Comparison<in T>(T? x, T? y);
+
+2.C. sorting using extension method OrderBy/ OrderByDescending and Func<T,TKey> delegate
+Func<T> logic=(T t)=>t.<PropertyName>
+collection.OrderBy(logic);
+
+Extension Method:
+a mechnism to extend (by adding) additional functionalities in an existing type from outside without modifying the original source of that type
+
+technique:
+1. create a static class where the extension method will be written
+
+public static class <Extension-cls-name>
+{
+}
+
+2. in that class create a static (public) method which you intend to add in the target type
+a. the first argument in that method should be of traget type declared additionally with "this" keyword
+b. then other arguments can follow
+
+public static class <Extension-cls-name>
+{
+	public static <RT/void> MethodName(this <target-type> <arg1>, ....){}
+}
+Note: 
+the use of "this" keyword indicates that this method, though static here, will be added as an instance method in the target type
+using extension method technique, you can't add any static method to the target type
+
+3. Now add reference to the libarary with that extension class from the client app (can be another library app or any executable app, which already has reference to the library containing the target type)
+
+4. use the extension method with the existing object reference of the target type
+
+best practice: always try to use abstraction (interface) to extend any type, as if the intention is to extend multiple target types with the same extension method, then the abstraction will help you achieve the same without explicitly mention type name (in that case you have to create mutiple overloaded version of the same extension method one for each target type)
+
+
+
+
+
+
+
 
 
 

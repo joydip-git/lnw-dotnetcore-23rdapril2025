@@ -2,7 +2,7 @@
 {
     public static class CollectionExtensions
     {
-        //extension methods are ALWAYS added as instance method in te target type
+        //extension methods are ALWAYS added as instance method in the target type
         //using extension method technique, you can't add any static method to the target type
         //public static T[] ToArray<T>(this MyCollection<T> collection, int startIndex = 0, int count = 0)
 
@@ -36,5 +36,10 @@
             }
             return values;
         }
+
+        //public static void Common(this A a) { }
+        //public static void Common(this B a) { }
+
+        //public static void Common(this IC a) { }
     }
 }

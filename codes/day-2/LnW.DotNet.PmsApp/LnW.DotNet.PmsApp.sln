@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LnW.DotNet.PmsApp.UserInter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LnW.DotNet.PmsApp.Repository", "LnW.DotNet.PmsApp.Repository\LnW.DotNet.PmsApp.Repository.csproj", "{9FA2886A-21EE-40AF-A183-2AAEDABA5115}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LnW.DotNet.PmsApp.Extensions", "LnW.DotNet.PmsApp.Extensions\LnW.DotNet.PmsApp.Extensions.csproj", "{FEC9763A-3853-4091-A0C6-0B8E742441A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{9FA2886A-21EE-40AF-A183-2AAEDABA5115}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FA2886A-21EE-40AF-A183-2AAEDABA5115}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FA2886A-21EE-40AF-A183-2AAEDABA5115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEC9763A-3853-4091-A0C6-0B8E742441A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC9763A-3853-4091-A0C6-0B8E742441A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC9763A-3853-4091-A0C6-0B8E742441A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC9763A-3853-4091-A0C6-0B8E742441A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

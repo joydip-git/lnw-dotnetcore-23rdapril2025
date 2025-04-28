@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-4\\CollectionsDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C82D551-7787-4F6D-AB84-9ABFD6106A52}|CollectionsDemo\\CollectionsDemo.csproj|d:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-4\\collectionsdemo\\collectionsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C82D551-7787-4F6D-AB84-9ABFD6106A52}|CollectionsDemo\\CollectionsDemo.csproj|solutionrelative:collectionsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8320A7A0-9AFF-4A67-990B-2A1CB61AF167}|LnW.DotNet.Collections.Generic.Extensions\\LnW.DotNet.Collections.Generic.Extensions.csproj|d:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-4\\collectionsdemo\\lnw.dotnet.collections.generic.extensions\\collectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8320A7A0-9AFF-4A67-990B-2A1CB61AF167}|LnW.DotNet.Collections.Generic.Extensions\\LnW.DotNet.Collections.Generic.Extensions.csproj|solutionrelative:lnw.dotnet.collections.generic.extensions\\collectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B735C112-BEE3-4323-B11A-69007F3ED686}|SortingDemo\\SortingDemo.csproj|d:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-4\\collectionsdemo\\sortingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B735C112-BEE3-4323-B11A-69007F3ED686}|SortingDemo\\SortingDemo.csproj|solutionrelative:sortingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B735C112-BEE3-4323-B11A-69007F3ED686}|SortingDemo\\SortingDemo.csproj|d:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-4\\collectionsdemo\\sortingdemo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B735C112-BEE3-4323-B11A-69007F3ED686}|SortingDemo\\SortingDemo.csproj|solutionrelative:sortingdemo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B735C112-BEE3-4323-B11A-69007F3ED686}|SortingDemo\\SortingDemo.csproj|d:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-4\\collectionsdemo\\sortingdemo\\personcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B735C112-BEE3-4323-B11A-69007F3ED686}|SortingDemo\\SortingDemo.csproj|solutionrelative:sortingdemo\\personcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-4\\CollectionsDemo\\CollectionsDemo\\Program.cs",
-              "RelativeDocumentMoniker": "CollectionsDemo\\Program.cs",
-              "ToolTip": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-4\\CollectionsDemo\\CollectionsDemo\\Program.cs",
-              "RelativeToolTip": "CollectionsDemo\\Program.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T05:14:57.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "CollectionExtensions.cs",
               "DocumentMoniker": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-4\\CollectionsDemo\\LnW.DotNet.Collections.Generic.Extensions\\CollectionExtensions.cs",
               "RelativeDocumentMoniker": "LnW.DotNet.Collections.Generic.Extensions\\CollectionExtensions.cs",
               "ToolTip": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-4\\CollectionsDemo\\LnW.DotNet.Collections.Generic.Extensions\\CollectionExtensions.cs",
               "RelativeToolTip": "LnW.DotNet.Collections.Generic.Extensions\\CollectionExtensions.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAABQAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwCoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T05:14:14.358Z",
+              "WhenOpened": "2025-04-28T07:34:25.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-4\\CollectionsDemo\\SortingDemo\\Program.cs",
+              "RelativeDocumentMoniker": "SortingDemo\\Program.cs",
+              "ToolTip": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-4\\CollectionsDemo\\SortingDemo\\Program.cs",
+              "RelativeToolTip": "SortingDemo\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T07:00:33.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-4\\CollectionsDemo\\SortingDemo\\Person.cs",
+              "RelativeDocumentMoniker": "SortingDemo\\Person.cs",
+              "ToolTip": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-4\\CollectionsDemo\\SortingDemo\\Person.cs",
+              "RelativeToolTip": "SortingDemo\\Person.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIAzwEQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T06:58:10.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonComparer.cs",
+              "DocumentMoniker": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-4\\CollectionsDemo\\SortingDemo\\PersonComparer.cs",
+              "RelativeDocumentMoniker": "SortingDemo\\PersonComparer.cs",
+              "ToolTip": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-4\\CollectionsDemo\\SortingDemo\\PersonComparer.cs",
+              "RelativeToolTip": "SortingDemo\\PersonComparer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAIAzwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T06:57:15.503Z",
               "EditorCaption": ""
             }
           ]
