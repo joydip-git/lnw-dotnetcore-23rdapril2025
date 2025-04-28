@@ -4,14 +4,160 @@
     "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.UserInterface\\LnW.DotNet.PmsApp.UserInterface.csproj": {}
   },
   "projects": {
-    "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.UserInterface\\LnW.DotNet.PmsApp.UserInterface.csproj": {
+    "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.BusinessLayer\\LnW.DotNet.PmsApp.BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.UserInterface\\LnW.DotNet.PmsApp.UserInterface.csproj",
-        "projectName": "LnW.DotNet.PmsApp.UserInterface",
-        "projectPath": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.UserInterface\\LnW.DotNet.PmsApp.UserInterface.csproj",
+        "projectUniqueName": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.BusinessLayer\\LnW.DotNet.PmsApp.BusinessLayer.csproj",
+        "projectName": "LnW.DotNet.PmsApp.BusinessLayer",
+        "projectPath": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.BusinessLayer\\LnW.DotNet.PmsApp.BusinessLayer.csproj",
         "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
-        "outputPath": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.UserInterface\\obj\\",
+        "outputPath": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joydip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.DataAccessLayer\\LnW.DotNet.PmsApp.DataAccessLayer.csproj": {
+                "projectPath": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.DataAccessLayer\\LnW.DotNet.PmsApp.DataAccessLayer.csproj"
+              },
+              "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.Models\\LnW.DotNet.PmsApp.Models.csproj": {
+                "projectPath": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.Models\\LnW.DotNet.PmsApp.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.DataAccessLayer\\LnW.DotNet.PmsApp.DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.DataAccessLayer\\LnW.DotNet.PmsApp.DataAccessLayer.csproj",
+        "projectName": "LnW.DotNet.PmsApp.DataAccessLayer",
+        "projectPath": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.DataAccessLayer\\LnW.DotNet.PmsApp.DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
+        "outputPath": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.DataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joydip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.Models\\LnW.DotNet.PmsApp.Models.csproj": {
+                "projectPath": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.Models\\LnW.DotNet.PmsApp.Models.csproj"
+              },
+              "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.Repository\\LnW.DotNet.PmsApp.Repository.csproj": {
+                "projectPath": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.Repository\\LnW.DotNet.PmsApp.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.Models\\LnW.DotNet.PmsApp.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.Models\\LnW.DotNet.PmsApp.Models.csproj",
+        "projectName": "LnW.DotNet.PmsApp.Models",
+        "projectPath": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.Models\\LnW.DotNet.PmsApp.Models.csproj",
+        "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
+        "outputPath": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -50,6 +196,155 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.Repository\\LnW.DotNet.PmsApp.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.Repository\\LnW.DotNet.PmsApp.Repository.csproj",
+        "projectName": "LnW.DotNet.PmsApp.Repository",
+        "projectPath": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.Repository\\LnW.DotNet.PmsApp.Repository.csproj",
+        "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
+        "outputPath": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joydip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.Models\\LnW.DotNet.PmsApp.Models.csproj": {
+                "projectPath": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.Models\\LnW.DotNet.PmsApp.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.UserInterface\\LnW.DotNet.PmsApp.UserInterface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.UserInterface\\LnW.DotNet.PmsApp.UserInterface.csproj",
+        "projectName": "LnW.DotNet.PmsApp.UserInterface",
+        "projectPath": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.UserInterface\\LnW.DotNet.PmsApp.UserInterface.csproj",
+        "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
+        "outputPath": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.UserInterface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joydip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.BusinessLayer\\LnW.DotNet.PmsApp.BusinessLayer.csproj": {
+                "projectPath": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.BusinessLayer\\LnW.DotNet.PmsApp.BusinessLayer.csproj"
+              },
+              "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.Models\\LnW.DotNet.PmsApp.Models.csproj": {
+                "projectPath": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.Models\\LnW.DotNet.PmsApp.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -3,32 +3,12 @@
   "WorkspaceRootPath": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FEC9763A-3853-4091-A0C6-0B8E742441A9}|LnW.DotNet.PmsApp.Extensions\\LnW.DotNet.PmsApp.Extensions.csproj|d:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\lnw.dotnet.pmsapp\\lnw.dotnet.pmsapp.extensions\\pmsappextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEC9763A-3853-4091-A0C6-0B8E742441A9}|LnW.DotNet.PmsApp.Extensions\\LnW.DotNet.PmsApp.Extensions.csproj|solutionrelative:lnw.dotnet.pmsapp.extensions\\pmsappextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B041F7A-C9F5-4BF7-8F87-F56CA8353483}|LnW.DotNet.PmsApp.UserInterface\\LnW.DotNet.PmsApp.UserInterface.csproj|d:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\lnw.dotnet.pmsapp\\lnw.dotnet.pmsapp.userinterface\\utility\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B041F7A-C9F5-4BF7-8F87-F56CA8353483}|LnW.DotNet.PmsApp.UserInterface\\LnW.DotNet.PmsApp.UserInterface.csproj|solutionrelative:lnw.dotnet.pmsapp.userinterface\\utility\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4A162C7-9385-4690-9DFD-A4DC751AF154}|LnW.DotNet.PmsApp.DataAccessLayer\\LnW.DotNet.PmsApp.DataAccessLayer.csproj|d:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\lnw.dotnet.pmsapp\\lnw.dotnet.pmsapp.dataaccesslayer\\abstractions\\ipmsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A162C7-9385-4690-9DFD-A4DC751AF154}|LnW.DotNet.PmsApp.DataAccessLayer\\LnW.DotNet.PmsApp.DataAccessLayer.csproj|solutionrelative:lnw.dotnet.pmsapp.dataaccesslayer\\abstractions\\ipmsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50D46B55-B555-4AD2-80F9-3036CD7239CC}|LnW.DotNet.PmsApp.BusinessLayer\\LnW.DotNet.PmsApp.BusinessLayer.csproj|d:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\lnw.dotnet.pmsapp\\lnw.dotnet.pmsapp.businesslayer\\implementations\\productbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50D46B55-B555-4AD2-80F9-3036CD7239CC}|LnW.DotNet.PmsApp.BusinessLayer\\LnW.DotNet.PmsApp.BusinessLayer.csproj|solutionrelative:lnw.dotnet.pmsapp.businesslayer\\implementations\\productbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50D46B55-B555-4AD2-80F9-3036CD7239CC}|LnW.DotNet.PmsApp.BusinessLayer\\LnW.DotNet.PmsApp.BusinessLayer.csproj|d:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\lnw.dotnet.pmsapp\\lnw.dotnet.pmsapp.businesslayer\\abstractions\\ipmsbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50D46B55-B555-4AD2-80F9-3036CD7239CC}|LnW.DotNet.PmsApp.BusinessLayer\\LnW.DotNet.PmsApp.BusinessLayer.csproj|solutionrelative:lnw.dotnet.pmsapp.businesslayer\\abstractions\\ipmsbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4A162C7-9385-4690-9DFD-A4DC751AF154}|LnW.DotNet.PmsApp.DataAccessLayer\\LnW.DotNet.PmsApp.DataAccessLayer.csproj|d:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\lnw.dotnet.pmsapp\\lnw.dotnet.pmsapp.dataaccesslayer\\implementations\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4A162C7-9385-4690-9DFD-A4DC751AF154}|LnW.DotNet.PmsApp.DataAccessLayer\\LnW.DotNet.PmsApp.DataAccessLayer.csproj|solutionrelative:lnw.dotnet.pmsapp.dataaccesslayer\\implementations\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FA2886A-21EE-40AF-A183-2AAEDABA5115}|LnW.DotNet.PmsApp.Repository\\LnW.DotNet.PmsApp.Repository.csproj|d:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\lnw.dotnet.pmsapp\\lnw.dotnet.pmsapp.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FA2886A-21EE-40AF-A183-2AAEDABA5115}|LnW.DotNet.PmsApp.Repository\\LnW.DotNet.PmsApp.Repository.csproj|solutionrelative:lnw.dotnet.pmsapp.repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B041F7A-C9F5-4BF7-8F87-F56CA8353483}|LnW.DotNet.PmsApp.UserInterface\\LnW.DotNet.PmsApp.UserInterface.csproj|d:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\lnw.dotnet.pmsapp\\lnw.dotnet.pmsapp.userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B041F7A-C9F5-4BF7-8F87-F56CA8353483}|LnW.DotNet.PmsApp.UserInterface\\LnW.DotNet.PmsApp.UserInterface.csproj|solutionrelative:lnw.dotnet.pmsapp.userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B041F7A-C9F5-4BF7-8F87-F56CA8353483}|LnW.DotNet.PmsApp.UserInterface\\LnW.DotNet.PmsApp.UserInterface.csproj|d:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\lnw.dotnet.pmsapp\\lnw.dotnet.pmsapp.userinterface\\utility\\uistrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B041F7A-C9F5-4BF7-8F87-F56CA8353483}|LnW.DotNet.PmsApp.UserInterface\\LnW.DotNet.PmsApp.UserInterface.csproj|solutionrelative:lnw.dotnet.pmsapp.userinterface\\utility\\uistrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,89 +23,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PmsAppExtensions.cs",
-              "DocumentMoniker": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.Extensions\\PmsAppExtensions.cs",
-              "RelativeDocumentMoniker": "LnW.DotNet.PmsApp.Extensions\\PmsAppExtensions.cs",
-              "ToolTip": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.Extensions\\PmsAppExtensions.cs",
-              "RelativeToolTip": "LnW.DotNet.PmsApp.Extensions\\PmsAppExtensions.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAswAkAAAAmAAAAAAAAAA==",
+              "Title": "UiManager.cs",
+              "DocumentMoniker": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.UserInterface\\Utility\\UiManager.cs",
+              "RelativeDocumentMoniker": "LnW.DotNet.PmsApp.UserInterface\\Utility\\UiManager.cs",
+              "ToolTip": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.UserInterface\\Utility\\UiManager.cs",
+              "RelativeToolTip": "LnW.DotNet.PmsApp.UserInterface\\Utility\\UiManager.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAAAMYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T07:42:20.006Z",
+              "WhenOpened": "2025-04-28T11:42:57.709Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IPmsBo.cs",
-              "DocumentMoniker": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.BusinessLayer\\Abstractions\\IPmsBo.cs",
-              "RelativeDocumentMoniker": "LnW.DotNet.PmsApp.BusinessLayer\\Abstractions\\IPmsBo.cs",
-              "ToolTip": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.BusinessLayer\\Abstractions\\IPmsBo.cs",
-              "RelativeToolTip": "LnW.DotNet.PmsApp.BusinessLayer\\Abstractions\\IPmsBo.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T05:31:08.635Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IPmsDao.cs",
-              "DocumentMoniker": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.DataAccessLayer\\Abstractions\\IPmsDao.cs",
-              "RelativeDocumentMoniker": "LnW.DotNet.PmsApp.DataAccessLayer\\Abstractions\\IPmsDao.cs",
-              "ToolTip": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.DataAccessLayer\\Abstractions\\IPmsDao.cs",
-              "RelativeToolTip": "LnW.DotNet.PmsApp.DataAccessLayer\\Abstractions\\IPmsDao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Title": "UIStrings.cs",
+              "DocumentMoniker": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.UserInterface\\Utility\\UIStrings.cs",
+              "RelativeDocumentMoniker": "LnW.DotNet.PmsApp.UserInterface\\Utility\\UIStrings.cs",
+              "ToolTip": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.UserInterface\\Utility\\UIStrings.cs",
+              "RelativeToolTip": "LnW.DotNet.PmsApp.UserInterface\\Utility\\UIStrings.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T05:29:58.134Z",
+              "WhenOpened": "2025-04-28T11:42:35.72Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.UserInterface\\Program.cs",
-              "RelativeDocumentMoniker": "LnW.DotNet.PmsApp.UserInterface\\Program.cs",
-              "ToolTip": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.UserInterface\\Program.cs",
-              "RelativeToolTip": "LnW.DotNet.PmsApp.UserInterface\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T11:37:02.97Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductBo.cs",
-              "DocumentMoniker": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.BusinessLayer\\Implementations\\ProductBo.cs",
-              "RelativeDocumentMoniker": "LnW.DotNet.PmsApp.BusinessLayer\\Implementations\\ProductBo.cs",
-              "ToolTip": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.BusinessLayer\\Implementations\\ProductBo.cs",
-              "RelativeToolTip": "LnW.DotNet.PmsApp.BusinessLayer\\Implementations\\ProductBo.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBsAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T11:33:32.831Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductDao.cs",
-              "DocumentMoniker": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.DataAccessLayer\\Implementations\\ProductDao.cs",
-              "RelativeDocumentMoniker": "LnW.DotNet.PmsApp.DataAccessLayer\\Implementations\\ProductDao.cs",
-              "ToolTip": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.DataAccessLayer\\Implementations\\ProductDao.cs",
-              "RelativeToolTip": "LnW.DotNet.PmsApp.DataAccessLayer\\Implementations\\ProductDao.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T11:31:18.174Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.Repository\\Repository.cs",
-              "RelativeDocumentMoniker": "LnW.DotNet.PmsApp.Repository\\Repository.cs",
-              "ToolTip": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.Repository\\Repository.cs",
-              "RelativeToolTip": "LnW.DotNet.PmsApp.Repository\\Repository.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAACEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T11:28:34.695Z"
             }
           ]
         }

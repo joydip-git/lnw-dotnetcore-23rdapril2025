@@ -13,5 +13,8 @@
         public int Year { get; set; } = DateTime.Now.Year;
 
         public required string Make { get; set; }
+
+        public override string ToString() =>
+         $"[Id={Id},Name={Name},Price={Price},Make={Make},Description={Description},Year={Year}]";
     }
 }

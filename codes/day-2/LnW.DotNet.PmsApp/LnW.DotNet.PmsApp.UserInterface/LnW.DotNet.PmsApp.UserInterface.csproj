@@ -7,4 +7,13 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="9.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LnW.DotNet.PmsApp.BusinessLayer\LnW.DotNet.PmsApp.BusinessLayer.csproj" />
+    <ProjectReference Include="..\LnW.DotNet.PmsApp.Models\LnW.DotNet.PmsApp.Models.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -1,4 +1,5 @@
 ﻿using LnW.DotNet.PmsApp.Models;
+using System.Collections.Immutable;
 
 namespace LnW.DotNet.PmsApp.BusinessLayer.Abstractions
 {
@@ -9,6 +10,6 @@ namespace LnW.DotNet.PmsApp.BusinessLayer.Abstractions
         bool Modify(TId id, T data);
         T? Fetch(TId id);
         //IEnumerable<T>? FetchAll(SortChoice sortChoice = SortChoice.SortById);
-        T[]? FetchAll(SortChoice sortChoice = SortChoice.SortById);
+        ImmutableArray<Product>? FetchAll(SortChoice sortChoice = SortChoice.SortById);
     }
 }
