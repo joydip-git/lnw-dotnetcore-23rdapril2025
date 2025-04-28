@@ -22,7 +22,11 @@ namespace LnW.DotNet.PmsApp.BusinessLayer.Implementations
             return null;
         }
 
-        public IEnumerable<Product>? FetchAll(SortChoice sortChoice = SortChoice.SortById)
+        //public IEnumerable<Product>? FetchAll(SortChoice sortChoice = SortChoice.SortById)
+        //{
+        //    return null;
+        //}
+        public Product[]? FetchAll(SortChoice sortChoice = SortChoice.SortById)
         {
             return null;
         }

@@ -8,6 +8,7 @@ namespace LnW.DotNet.PmsApp.BusinessLayer.Abstractions
         bool Remove(TId id);
         bool Modify(TId id, T data);
         T? Fetch(TId id);
-        IEnumerable<T>? FetchAll(SortChoice sortChoice = SortChoice.SortById);
+        //IEnumerable<T>? FetchAll(SortChoice sortChoice = SortChoice.SortById);
+        T[]? FetchAll(SortChoice sortChoice = SortChoice.SortById);
     }
 }

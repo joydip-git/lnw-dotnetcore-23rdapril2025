@@ -6,7 +6,8 @@
         bool Delete(TId id);
         bool Update(TId id, T data);
         T? Get(TId id);
-        IEnumerable<T>? GetAll();
+        //IEnumerable<T>? GetAll();
+        T[]? GetAll();
     }
     //public interface IProductDao : IPmsDao<Product, string>
     //{

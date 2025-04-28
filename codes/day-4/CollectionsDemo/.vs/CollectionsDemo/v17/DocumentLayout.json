@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-4\\CollectionsDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C82D551-7787-4F6D-AB84-9ABFD6106A52}|CollectionsDemo\\CollectionsDemo.csproj|d:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-4\\collectionsdemo\\collectionsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C82D551-7787-4F6D-AB84-9ABFD6106A52}|CollectionsDemo\\CollectionsDemo.csproj|solutionrelative:collectionsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8320A7A0-9AFF-4A67-990B-2A1CB61AF167}|LnW.DotNet.Collections.Generic.Extensions\\LnW.DotNet.Collections.Generic.Extensions.csproj|d:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-4\\collectionsdemo\\lnw.dotnet.collections.generic.extensions\\collectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8320A7A0-9AFF-4A67-990B-2A1CB61AF167}|LnW.DotNet.Collections.Generic.Extensions\\LnW.DotNet.Collections.Generic.Extensions.csproj|solutionrelative:lnw.dotnet.collections.generic.extensions\\collectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-4\\CollectionsDemo\\CollectionsDemo\\Program.cs",
+              "RelativeDocumentMoniker": "CollectionsDemo\\Program.cs",
+              "ToolTip": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-4\\CollectionsDemo\\CollectionsDemo\\Program.cs",
+              "RelativeToolTip": "CollectionsDemo\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T05:14:57.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CollectionExtensions.cs",
+              "DocumentMoniker": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-4\\CollectionsDemo\\LnW.DotNet.Collections.Generic.Extensions\\CollectionExtensions.cs",
+              "RelativeDocumentMoniker": "LnW.DotNet.Collections.Generic.Extensions\\CollectionExtensions.cs",
+              "ToolTip": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-4\\CollectionsDemo\\LnW.DotNet.Collections.Generic.Extensions\\CollectionExtensions.cs",
+              "RelativeToolTip": "LnW.DotNet.Collections.Generic.Extensions\\CollectionExtensions.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAABQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T05:14:14.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

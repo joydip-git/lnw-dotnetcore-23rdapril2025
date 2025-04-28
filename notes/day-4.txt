@@ -1,0 +1,27 @@
+ArrayList al = new ();
+
+//boxing
+int value = 12;
+object objValue = value;
+al.Add(objValue);
+
+al.Add(12);
+al.Add(12.34);
+al.Add('a');
+al.Add("lnw");
+
+foreach(object data in al){}
+
+interfaces:
+System.Collections	System.Collections.Generic
+IEnumerable		IEnumerable<T>	
+	IEnumerator/IEnumerator<T>GetEnumerator();
+
+ICollection		ICollection<T>
+IEnumerator		IEnumerator<T>
+
+IList			IList<T>
+
+
+
+

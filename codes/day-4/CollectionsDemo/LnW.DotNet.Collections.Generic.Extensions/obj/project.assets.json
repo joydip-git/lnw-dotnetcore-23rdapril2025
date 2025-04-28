@@ -1,0 +1,104 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "LnW.DotNet.Collections.Generic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/LnW.DotNet.Collections.Generic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LnW.DotNet.Collections.Generic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LnW.DotNet.Collections.Generic/1.0.0": {
+      "type": "project",
+      "path": "../LnW.DotNet.Collections.Generic/LnW.DotNet.Collections.Generic.csproj",
+      "msbuildProject": "../LnW.DotNet.Collections.Generic/LnW.DotNet.Collections.Generic.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "LnW.DotNet.Collections.Generic >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\joydip\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-4\\CollectionsDemo\\LnW.DotNet.Collections.Generic.Extensions\\LnW.DotNet.Collections.Generic.Extensions.csproj",
+      "projectName": "LnW.DotNet.Collections.Generic.Extensions",
+      "projectPath": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-4\\CollectionsDemo\\LnW.DotNet.Collections.Generic.Extensions\\LnW.DotNet.Collections.Generic.Extensions.csproj",
+      "packagesPath": "C:\\Users\\joydip\\.nuget\\packages\\",
+      "outputPath": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-4\\CollectionsDemo\\LnW.DotNet.Collections.Generic.Extensions\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\joydip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-4\\CollectionsDemo\\LnW.DotNet.Collections.Generic\\LnW.DotNet.Collections.Generic.csproj": {
+              "projectPath": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-4\\CollectionsDemo\\LnW.DotNet.Collections.Generic\\LnW.DotNet.Collections.Generic.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

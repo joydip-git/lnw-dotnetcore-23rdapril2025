@@ -1,0 +1,12 @@
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-4\CollectionsDemo\LnW.DotNet.Collections.Generic\bin\Debug\net8.0\LnW.DotNet.Collections.Generic.deps.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-4\CollectionsDemo\LnW.DotNet.Collections.Generic\bin\Debug\net8.0\LnW.DotNet.Collections.Generic.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-4\CollectionsDemo\LnW.DotNet.Collections.Generic\bin\Debug\net8.0\LnW.DotNet.Collections.Generic.pdb
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-4\CollectionsDemo\LnW.DotNet.Collections.Generic\obj\Debug\net8.0\LnW.DotNet.Collections.Generic.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-4\CollectionsDemo\LnW.DotNet.Collections.Generic\obj\Debug\net8.0\LnW.DotNet.Collections.Generic.AssemblyInfoInputs.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-4\CollectionsDemo\LnW.DotNet.Collections.Generic\obj\Debug\net8.0\LnW.DotNet.Collections.Generic.AssemblyInfo.cs
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-4\CollectionsDemo\LnW.DotNet.Collections.Generic\obj\Debug\net8.0\LnW.DotNet.Collections.Generic.csproj.CoreCompileInputs.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-4\CollectionsDemo\LnW.DotNet.Collections.Generic\obj\Debug\net8.0\LnW.DotNet.Collections.Generic.sourcelink.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-4\CollectionsDemo\LnW.DotNet.Collections.Generic\obj\Debug\net8.0\LnW.DotNet.Collections.Generic.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-4\CollectionsDemo\LnW.DotNet.Collections.Generic\obj\Debug\net8.0\refint\LnW.DotNet.Collections.Generic.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-4\CollectionsDemo\LnW.DotNet.Collections.Generic\obj\Debug\net8.0\LnW.DotNet.Collections.Generic.pdb
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-4\CollectionsDemo\LnW.DotNet.Collections.Generic\obj\Debug\net8.0\ref\LnW.DotNet.Collections.Generic.dll

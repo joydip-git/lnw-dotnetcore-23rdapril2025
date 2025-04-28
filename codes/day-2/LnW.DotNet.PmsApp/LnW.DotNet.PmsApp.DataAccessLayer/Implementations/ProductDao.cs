@@ -16,7 +16,7 @@ namespace LnW.DotNet.PmsApp.DataAccessLayer.Implementations
             return null;
         }
 
-        public IEnumerable<Product>? GetAll()
+        public Product[]? GetAll()
         {
             return null;
         }
