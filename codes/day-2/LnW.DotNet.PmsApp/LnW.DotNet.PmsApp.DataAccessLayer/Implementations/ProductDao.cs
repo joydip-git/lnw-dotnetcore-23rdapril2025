@@ -14,7 +14,8 @@ namespace LnW.DotNet.PmsApp.DataAccessLayer.Implementations
                 if (Exists(id))
                 {
                     var found = Find(id);
-                    return Products.Remove(found);
+                    var done = Products.Remove(found);
+                    return done;
                 }
                 else
                     return false;
@@ -78,7 +79,7 @@ namespace LnW.DotNet.PmsApp.DataAccessLayer.Implementations
                     found.Description = data.Description;
                     found.Price = data.Price;
                     found.Make = data.Make;
-                    found.Year = data.Year;
+                    found.Year = data.Year;                    
 
                     return true;
                 }

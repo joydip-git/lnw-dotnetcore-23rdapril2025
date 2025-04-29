@@ -2,3 +2,6 @@ https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/const
 
 expression tree and dynamic query:
 https://learn.microsoft.com/en-us/dotnet/csharp/linq/how-to-build-dynamic-queries
+
+asynchronous programming patterns:
+https://learn.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/

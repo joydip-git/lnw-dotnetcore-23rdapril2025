@@ -39,6 +39,10 @@ Task.Run()
 delegate TResult Action<out TResult>();
 Task<TResult>.Run<TResult>()
 
+new TaskFactory().StartNew();
+
+Task t = new Task();
+
 Parallel.Invoke();
 
 

@@ -1,4 +1,5 @@
-﻿using LnW.DotNet.PmsApp.UserInterface;
+﻿using LnW.DotNet.PmsApp.Repository;
+using LnW.DotNet.PmsApp.UserInterface;
 using LnW.DotNet.PmsApp.UserInterface.Utility;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -20,6 +21,7 @@ static void CallWhenStartsUp(IServiceProvider sp)
     manager.RunApp();
     scope.Dispose();
 }
+
 
 
 

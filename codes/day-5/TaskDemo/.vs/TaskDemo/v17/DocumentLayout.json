@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-5\\TaskDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{694A640D-367F-4373-B40A-AF8A6ED9BCC7}|TaskDemo\\TaskDemo.csproj|d:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-5\\taskdemo\\taskdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{694A640D-367F-4373-B40A-AF8A6ED9BCC7}|TaskDemo\\TaskDemo.csproj|solutionrelative:taskdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0098630-3754-4A6D-B411-24DE89BD15A6}|MultipleTasks\\MultipleTasks.csproj|d:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-5\\taskdemo\\multipletasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0098630-3754-4A6D-B411-24DE89BD15A6}|MultipleTasks\\MultipleTasks.csproj|solutionrelative:multipletasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-5\\TaskDemo\\TaskDemo\\Program.cs",
-              "RelativeDocumentMoniker": "TaskDemo\\Program.cs",
-              "ToolTip": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-5\\TaskDemo\\TaskDemo\\Program.cs",
-              "RelativeToolTip": "TaskDemo\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBIAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-5\\TaskDemo\\MultipleTasks\\Program.cs",
+              "RelativeDocumentMoniker": "MultipleTasks\\Program.cs",
+              "ToolTip": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-5\\TaskDemo\\MultipleTasks\\Program.cs",
+              "RelativeToolTip": "MultipleTasks\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T07:02:47.138Z",
+              "WhenOpened": "2025-04-29T08:49:43.963Z",
               "EditorCaption": ""
             }
           ]

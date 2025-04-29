@@ -1,0 +1,15 @@
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\TaskDemo\MultipleTasks\bin\Debug\net8.0\MultipleTasks.exe
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\TaskDemo\MultipleTasks\bin\Debug\net8.0\MultipleTasks.deps.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\TaskDemo\MultipleTasks\bin\Debug\net8.0\MultipleTasks.runtimeconfig.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\TaskDemo\MultipleTasks\bin\Debug\net8.0\MultipleTasks.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\TaskDemo\MultipleTasks\bin\Debug\net8.0\MultipleTasks.pdb
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\TaskDemo\MultipleTasks\obj\Debug\net8.0\MultipleTasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\TaskDemo\MultipleTasks\obj\Debug\net8.0\MultipleTasks.AssemblyInfoInputs.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\TaskDemo\MultipleTasks\obj\Debug\net8.0\MultipleTasks.AssemblyInfo.cs
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\TaskDemo\MultipleTasks\obj\Debug\net8.0\MultipleTasks.csproj.CoreCompileInputs.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\TaskDemo\MultipleTasks\obj\Debug\net8.0\MultipleTasks.sourcelink.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\TaskDemo\MultipleTasks\obj\Debug\net8.0\MultipleTasks.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\TaskDemo\MultipleTasks\obj\Debug\net8.0\refint\MultipleTasks.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\TaskDemo\MultipleTasks\obj\Debug\net8.0\MultipleTasks.pdb
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\TaskDemo\MultipleTasks\obj\Debug\net8.0\MultipleTasks.genruntimeconfig.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\TaskDemo\MultipleTasks\obj\Debug\net8.0\ref\MultipleTasks.dll

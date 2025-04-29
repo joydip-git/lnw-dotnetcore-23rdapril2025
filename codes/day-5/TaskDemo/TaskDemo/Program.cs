@@ -1,4 +1,6 @@
-﻿Task someWorkTask = Task.Run(() => DoSomeWork());
+﻿using System.Text.Json;
+
+Task someWorkTask = Task.Run(() => DoSomeWork());
 //await someWorkTask;
 
 Task someOtherWorkTask = Task.Run(() => DoSomeOtherWork());
@@ -14,5 +16,5 @@ static async Task DoSomeOtherWork()
 static async Task DoSomeWork()
 {
     Console.WriteLine($"DoSomeWork in Thread Id: {Environment.CurrentManagedThreadId}");
-    await Task.Delay(TimeSpan.FromMilliseconds(2000));
+    await Task.Delay(TimeSpan.FromMilliseconds(2000));    
 }
