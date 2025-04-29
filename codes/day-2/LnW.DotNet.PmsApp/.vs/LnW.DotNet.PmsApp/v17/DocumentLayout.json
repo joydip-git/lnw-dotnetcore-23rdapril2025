@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3B041F7A-C9F5-4BF7-8F87-F56CA8353483}|LnW.DotNet.PmsApp.UserInterface\\LnW.DotNet.PmsApp.UserInterface.csproj|d:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\lnw.dotnet.pmsapp\\lnw.dotnet.pmsapp.userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B041F7A-C9F5-4BF7-8F87-F56CA8353483}|LnW.DotNet.PmsApp.UserInterface\\LnW.DotNet.PmsApp.UserInterface.csproj|solutionrelative:lnw.dotnet.pmsapp.userinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B041F7A-C9F5-4BF7-8F87-F56CA8353483}|LnW.DotNet.PmsApp.UserInterface\\LnW.DotNet.PmsApp.UserInterface.csproj|d:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\lnw.dotnet.pmsapp\\lnw.dotnet.pmsapp.userinterface\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B041F7A-C9F5-4BF7-8F87-F56CA8353483}|LnW.DotNet.PmsApp.UserInterface\\LnW.DotNet.PmsApp.UserInterface.csproj|solutionrelative:lnw.dotnet.pmsapp.userinterface\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3B041F7A-C9F5-4BF7-8F87-F56CA8353483}|LnW.DotNet.PmsApp.UserInterface\\LnW.DotNet.PmsApp.UserInterface.csproj|d:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\lnw.dotnet.pmsapp\\lnw.dotnet.pmsapp.userinterface\\utility\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B041F7A-C9F5-4BF7-8F87-F56CA8353483}|LnW.DotNet.PmsApp.UserInterface\\LnW.DotNet.PmsApp.UserInterface.csproj|solutionrelative:lnw.dotnet.pmsapp.userinterface\\utility\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,19 +31,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.UserInterface\\Program.cs",
+              "RelativeDocumentMoniker": "LnW.DotNet.PmsApp.UserInterface\\Program.cs",
+              "ToolTip": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.UserInterface\\Program.cs",
+              "RelativeToolTip": "LnW.DotNet.PmsApp.UserInterface\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:57:21.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.UserInterface\\StartUp.cs",
+              "RelativeDocumentMoniker": "LnW.DotNet.PmsApp.UserInterface\\StartUp.cs",
+              "ToolTip": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.UserInterface\\StartUp.cs",
+              "RelativeToolTip": "LnW.DotNet.PmsApp.UserInterface\\StartUp.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:56:47.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UiManager.cs",
               "DocumentMoniker": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.UserInterface\\Utility\\UiManager.cs",
               "RelativeDocumentMoniker": "LnW.DotNet.PmsApp.UserInterface\\Utility\\UiManager.cs",
               "ToolTip": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.UserInterface\\Utility\\UiManager.cs",
               "RelativeToolTip": "LnW.DotNet.PmsApp.UserInterface\\Utility\\UiManager.cs",
-              "ViewState": "AgIAAL4AAAAAAAAAAAAAAMYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAMYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T11:42:57.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "UIStrings.cs",
               "DocumentMoniker": "D:\\training\\lnw-dotnetcore-23rdapril2025\\codes\\day-2\\LnW.DotNet.PmsApp\\LnW.DotNet.PmsApp.UserInterface\\Utility\\UIStrings.cs",
               "RelativeDocumentMoniker": "LnW.DotNet.PmsApp.UserInterface\\Utility\\UIStrings.cs",
@@ -43,8 +77,7 @@
               "RelativeToolTip": "LnW.DotNet.PmsApp.UserInterface\\Utility\\UIStrings.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T11:42:35.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T11:42:35.72Z"
             }
           ]
         }

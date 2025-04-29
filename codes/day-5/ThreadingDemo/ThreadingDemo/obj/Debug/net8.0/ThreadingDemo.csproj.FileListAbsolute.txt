@@ -1,0 +1,15 @@
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\ThreadingDemo\ThreadingDemo\bin\Debug\net8.0\ThreadingDemo.exe
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\ThreadingDemo\ThreadingDemo\bin\Debug\net8.0\ThreadingDemo.deps.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\ThreadingDemo\ThreadingDemo\bin\Debug\net8.0\ThreadingDemo.runtimeconfig.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\ThreadingDemo\ThreadingDemo\bin\Debug\net8.0\ThreadingDemo.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\ThreadingDemo\ThreadingDemo\bin\Debug\net8.0\ThreadingDemo.pdb
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\ThreadingDemo\ThreadingDemo\obj\Debug\net8.0\ThreadingDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\ThreadingDemo\ThreadingDemo\obj\Debug\net8.0\ThreadingDemo.AssemblyInfoInputs.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\ThreadingDemo\ThreadingDemo\obj\Debug\net8.0\ThreadingDemo.AssemblyInfo.cs
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\ThreadingDemo\ThreadingDemo\obj\Debug\net8.0\ThreadingDemo.csproj.CoreCompileInputs.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\ThreadingDemo\ThreadingDemo\obj\Debug\net8.0\ThreadingDemo.sourcelink.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\ThreadingDemo\ThreadingDemo\obj\Debug\net8.0\ThreadingDemo.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\ThreadingDemo\ThreadingDemo\obj\Debug\net8.0\refint\ThreadingDemo.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\ThreadingDemo\ThreadingDemo\obj\Debug\net8.0\ThreadingDemo.pdb
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\ThreadingDemo\ThreadingDemo\obj\Debug\net8.0\ThreadingDemo.genruntimeconfig.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\ThreadingDemo\ThreadingDemo\obj\Debug\net8.0\ref\ThreadingDemo.dll

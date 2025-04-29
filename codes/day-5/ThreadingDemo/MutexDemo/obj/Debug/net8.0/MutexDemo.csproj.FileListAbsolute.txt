@@ -1,0 +1,15 @@
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\ThreadingDemo\MutexDemo\bin\Debug\net8.0\MutexDemo.exe
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\ThreadingDemo\MutexDemo\bin\Debug\net8.0\MutexDemo.deps.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\ThreadingDemo\MutexDemo\bin\Debug\net8.0\MutexDemo.runtimeconfig.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\ThreadingDemo\MutexDemo\bin\Debug\net8.0\MutexDemo.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\ThreadingDemo\MutexDemo\bin\Debug\net8.0\MutexDemo.pdb
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\ThreadingDemo\MutexDemo\obj\Debug\net8.0\MutexDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\ThreadingDemo\MutexDemo\obj\Debug\net8.0\MutexDemo.AssemblyInfoInputs.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\ThreadingDemo\MutexDemo\obj\Debug\net8.0\MutexDemo.AssemblyInfo.cs
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\ThreadingDemo\MutexDemo\obj\Debug\net8.0\MutexDemo.csproj.CoreCompileInputs.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\ThreadingDemo\MutexDemo\obj\Debug\net8.0\MutexDemo.sourcelink.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\ThreadingDemo\MutexDemo\obj\Debug\net8.0\MutexDemo.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\ThreadingDemo\MutexDemo\obj\Debug\net8.0\refint\MutexDemo.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\ThreadingDemo\MutexDemo\obj\Debug\net8.0\MutexDemo.pdb
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\ThreadingDemo\MutexDemo\obj\Debug\net8.0\MutexDemo.genruntimeconfig.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\ThreadingDemo\MutexDemo\obj\Debug\net8.0\ref\MutexDemo.dll

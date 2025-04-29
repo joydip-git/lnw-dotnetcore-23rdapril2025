@@ -1,0 +1,16 @@
+D:\training\codes\EventHandlingDemo\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+D:\training\codes\EventHandlingDemo\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+D:\training\codes\EventHandlingDemo\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+D:\training\codes\EventHandlingDemo\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+D:\training\codes\EventHandlingDemo\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\training\codes\EventHandlingDemo\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+D:\training\codes\EventHandlingDemo\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\training\codes\EventHandlingDemo\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\codes\EventHandlingDemo\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\training\codes\EventHandlingDemo\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\training\codes\EventHandlingDemo\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\training\codes\EventHandlingDemo\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+D:\training\codes\EventHandlingDemo\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+D:\training\codes\EventHandlingDemo\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\training\codes\EventHandlingDemo\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\training\codes\EventHandlingDemo\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll

@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\training\\codes\\EventHandlingDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A599C01-881B-4942-90CB-F112AC7C339B}|WinFormsApp1\\WinFormsApp1.csproj|d:\\training\\codes\\eventhandlingdemo\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A599C01-881B-4942-90CB-F112AC7C339B}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A599C01-881B-4942-90CB-F112AC7C339B}|WinFormsApp1\\WinFormsApp1.csproj|d:\\training\\codes\\eventhandlingdemo\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A599C01-881B-4942-90CB-F112AC7C339B}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A599C01-881B-4942-90CB-F112AC7C339B}|WinFormsApp1\\WinFormsApp1.csproj|d:\\training\\codes\\eventhandlingdemo\\winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A599C01-881B-4942-90CB-F112AC7C339B}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9407BEB-A5E4-46CC-AF76-4C1E35B46DFB}|EventHandlingDemo\\EventHandlingDemo.csproj|d:\\training\\codes\\eventhandlingdemo\\eventhandlingdemo\\textbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9407BEB-A5E4-46CC-AF76-4C1E35B46DFB}|EventHandlingDemo\\EventHandlingDemo.csproj|solutionrelative:eventhandlingdemo\\textbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9407BEB-A5E4-46CC-AF76-4C1E35B46DFB}|EventHandlingDemo\\EventHandlingDemo.csproj|d:\\training\\codes\\eventhandlingdemo\\eventhandlingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9407BEB-A5E4-46CC-AF76-4C1E35B46DFB}|EventHandlingDemo\\EventHandlingDemo.csproj|solutionrelative:eventhandlingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9407BEB-A5E4-46CC-AF76-4C1E35B46DFB}|EventHandlingDemo\\EventHandlingDemo.csproj|d:\\training\\codes\\eventhandlingdemo\\eventhandlingdemo\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9407BEB-A5E4-46CC-AF76-4C1E35B46DFB}|EventHandlingDemo\\EventHandlingDemo.csproj|solutionrelative:eventhandlingdemo\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9407BEB-A5E4-46CC-AF76-4C1E35B46DFB}|EventHandlingDemo\\EventHandlingDemo.csproj|d:\\training\\codes\\eventhandlingdemo\\eventhandlingdemo\\controleventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9407BEB-A5E4-46CC-AF76-4C1E35B46DFB}|EventHandlingDemo\\EventHandlingDemo.csproj|solutionrelative:eventhandlingdemo\\controleventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9407BEB-A5E4-46CC-AF76-4C1E35B46DFB}|EventHandlingDemo\\EventHandlingDemo.csproj|d:\\training\\codes\\eventhandlingdemo\\eventhandlingdemo\\controleventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9407BEB-A5E4-46CC-AF76-4C1E35B46DFB}|EventHandlingDemo\\EventHandlingDemo.csproj|solutionrelative:eventhandlingdemo\\controleventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9407BEB-A5E4-46CC-AF76-4C1E35B46DFB}|EventHandlingDemo\\EventHandlingDemo.csproj|d:\\training\\codes\\eventhandlingdemo\\eventhandlingdemo\\form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9407BEB-A5E4-46CC-AF76-4C1E35B46DFB}|EventHandlingDemo\\EventHandlingDemo.csproj|solutionrelative:eventhandlingdemo\\form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9407BEB-A5E4-46CC-AF76-4C1E35B46DFB}|EventHandlingDemo\\EventHandlingDemo.csproj|d:\\training\\codes\\eventhandlingdemo\\eventhandlingdemo\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9407BEB-A5E4-46CC-AF76-4C1E35B46DFB}|EventHandlingDemo\\EventHandlingDemo.csproj|solutionrelative:eventhandlingdemo\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\training\\codes\\EventHandlingDemo\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.Designer.cs",
+              "ToolTip": "D:\\training\\codes\\EventHandlingDemo\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.Designer.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAACcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:50:35.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\training\\codes\\EventHandlingDemo\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\training\\codes\\EventHandlingDemo\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:50:15.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\training\\codes\\EventHandlingDemo\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\training\\codes\\EventHandlingDemo\\WinFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:49:41.405Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ControlEventArgs.cs",
+              "DocumentMoniker": "D:\\training\\codes\\EventHandlingDemo\\EventHandlingDemo\\ControlEventArgs.cs",
+              "RelativeDocumentMoniker": "EventHandlingDemo\\ControlEventArgs.cs",
+              "ToolTip": "D:\\training\\codes\\EventHandlingDemo\\EventHandlingDemo\\ControlEventArgs.cs",
+              "RelativeToolTip": "EventHandlingDemo\\ControlEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:39:07.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Control.cs",
+              "DocumentMoniker": "D:\\training\\codes\\EventHandlingDemo\\EventHandlingDemo\\Control.cs",
+              "RelativeDocumentMoniker": "EventHandlingDemo\\Control.cs",
+              "ToolTip": "D:\\training\\codes\\EventHandlingDemo\\EventHandlingDemo\\Control.cs",
+              "RelativeToolTip": "EventHandlingDemo\\Control.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:23:41.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form.Designer.cs",
+              "DocumentMoniker": "D:\\training\\codes\\EventHandlingDemo\\EventHandlingDemo\\Form.Designer.cs",
+              "RelativeDocumentMoniker": "EventHandlingDemo\\Form.Designer.cs",
+              "ToolTip": "D:\\training\\codes\\EventHandlingDemo\\EventHandlingDemo\\Form.Designer.cs",
+              "RelativeToolTip": "EventHandlingDemo\\Form.Designer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:19:08.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ControlEventHandler.cs",
+              "DocumentMoniker": "D:\\training\\codes\\EventHandlingDemo\\EventHandlingDemo\\ControlEventHandler.cs",
+              "RelativeDocumentMoniker": "EventHandlingDemo\\ControlEventHandler.cs",
+              "ToolTip": "D:\\training\\codes\\EventHandlingDemo\\EventHandlingDemo\\ControlEventHandler.cs",
+              "RelativeToolTip": "EventHandlingDemo\\ControlEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:16:58.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form.cs",
+              "DocumentMoniker": "D:\\training\\codes\\EventHandlingDemo\\EventHandlingDemo\\Form.cs",
+              "RelativeDocumentMoniker": "EventHandlingDemo\\Form.cs",
+              "ToolTip": "D:\\training\\codes\\EventHandlingDemo\\EventHandlingDemo\\Form.cs",
+              "RelativeToolTip": "EventHandlingDemo\\Form.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:13:01.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextBox.cs",
+              "DocumentMoniker": "D:\\training\\codes\\EventHandlingDemo\\EventHandlingDemo\\TextBox.cs",
+              "RelativeDocumentMoniker": "EventHandlingDemo\\TextBox.cs",
+              "ToolTip": "D:\\training\\codes\\EventHandlingDemo\\EventHandlingDemo\\TextBox.cs",
+              "RelativeToolTip": "EventHandlingDemo\\TextBox.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:09:39.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\training\\codes\\EventHandlingDemo\\EventHandlingDemo\\Program.cs",
+              "RelativeDocumentMoniker": "EventHandlingDemo\\Program.cs",
+              "ToolTip": "D:\\training\\codes\\EventHandlingDemo\\EventHandlingDemo\\Program.cs",
+              "RelativeToolTip": "EventHandlingDemo\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T04:02:36.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\training\codes\EventHandlingDemo\EventHandlingDemo\bin\Debug\net8.0\EventHandlingDemo.exe
+D:\training\codes\EventHandlingDemo\EventHandlingDemo\bin\Debug\net8.0\EventHandlingDemo.deps.json
+D:\training\codes\EventHandlingDemo\EventHandlingDemo\bin\Debug\net8.0\EventHandlingDemo.runtimeconfig.json
+D:\training\codes\EventHandlingDemo\EventHandlingDemo\bin\Debug\net8.0\EventHandlingDemo.dll
+D:\training\codes\EventHandlingDemo\EventHandlingDemo\bin\Debug\net8.0\EventHandlingDemo.pdb
+D:\training\codes\EventHandlingDemo\EventHandlingDemo\obj\Debug\net8.0\EventHandlingDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\codes\EventHandlingDemo\EventHandlingDemo\obj\Debug\net8.0\EventHandlingDemo.AssemblyInfoInputs.cache
+D:\training\codes\EventHandlingDemo\EventHandlingDemo\obj\Debug\net8.0\EventHandlingDemo.AssemblyInfo.cs
+D:\training\codes\EventHandlingDemo\EventHandlingDemo\obj\Debug\net8.0\EventHandlingDemo.csproj.CoreCompileInputs.cache
+D:\training\codes\EventHandlingDemo\EventHandlingDemo\obj\Debug\net8.0\EventHandlingDemo.dll
+D:\training\codes\EventHandlingDemo\EventHandlingDemo\obj\Debug\net8.0\refint\EventHandlingDemo.dll
+D:\training\codes\EventHandlingDemo\EventHandlingDemo\obj\Debug\net8.0\EventHandlingDemo.pdb
+D:\training\codes\EventHandlingDemo\EventHandlingDemo\obj\Debug\net8.0\EventHandlingDemo.genruntimeconfig.cache
+D:\training\codes\EventHandlingDemo\EventHandlingDemo\obj\Debug\net8.0\ref\EventHandlingDemo.dll

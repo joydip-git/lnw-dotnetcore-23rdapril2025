@@ -10,6 +10,7 @@ using Microsoft.Extensions.Hosting;
 namespace LnW.DotNet.PmsApp.UserInterface
 {
     public delegate void StartUpEventHandler(IServiceProvider serviceProvider);
+
     public class StartUp
     {
         public event StartUpEventHandler? Start;

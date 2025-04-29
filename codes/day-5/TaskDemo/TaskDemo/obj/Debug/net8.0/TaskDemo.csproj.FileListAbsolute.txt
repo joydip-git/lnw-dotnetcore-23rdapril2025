@@ -1,0 +1,15 @@
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\TaskDemo\TaskDemo\bin\Debug\net8.0\TaskDemo.exe
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\TaskDemo\TaskDemo\bin\Debug\net8.0\TaskDemo.deps.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\TaskDemo\TaskDemo\bin\Debug\net8.0\TaskDemo.runtimeconfig.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\TaskDemo\TaskDemo\bin\Debug\net8.0\TaskDemo.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\TaskDemo\TaskDemo\bin\Debug\net8.0\TaskDemo.pdb
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\TaskDemo\TaskDemo\obj\Debug\net8.0\TaskDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\TaskDemo\TaskDemo\obj\Debug\net8.0\TaskDemo.AssemblyInfoInputs.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\TaskDemo\TaskDemo\obj\Debug\net8.0\TaskDemo.AssemblyInfo.cs
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\TaskDemo\TaskDemo\obj\Debug\net8.0\TaskDemo.csproj.CoreCompileInputs.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\TaskDemo\TaskDemo\obj\Debug\net8.0\TaskDemo.sourcelink.json
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\TaskDemo\TaskDemo\obj\Debug\net8.0\TaskDemo.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\TaskDemo\TaskDemo\obj\Debug\net8.0\refint\TaskDemo.dll
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\TaskDemo\TaskDemo\obj\Debug\net8.0\TaskDemo.pdb
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\TaskDemo\TaskDemo\obj\Debug\net8.0\TaskDemo.genruntimeconfig.cache
+D:\training\lnw-dotnetcore-23rdapril2025\codes\day-5\TaskDemo\TaskDemo\obj\Debug\net8.0\ref\TaskDemo.dll

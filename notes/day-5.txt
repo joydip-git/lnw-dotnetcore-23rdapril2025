@@ -1,0 +1,52 @@
+event handling
+
+any class can event (that needs to be triggered)
+as response to that event a function can be executed
+but the function is not decided/created when the class with the event is generated
+hence event uses delegate so that any method can be subscribed to the event and when the event gets fired the delegate will be notified and that will invoke the method
+
+this model of subscribing to an event and then invoking the method when the event gets fired is known as subscription notification model
+
+events also provide the facility to attach any method with a class, frm outside the class
+
+event is an abastraction/illusion for the delegate
+
+declration of event in a class looks like:
+
+public event <del-name> <event-name>;
+
+Thredaing:
+context for any method to run.
+by default in case of every executable app, at least one such context is created for Main method. this context is known as thread. the memory block region of every thread is a Stack. better name is Thread Local Storage (TLS).
+
+if you want to run operations simulatneously, then you need mutiple threads in your app.
+CPU will switch between the contexts.
+
+to create multiple threads in your app and manage them yourself (manually) you can use Thread class from System.Threading namespace.
+
+ThreadStart delegate => is used to invoke any method without any argiment and return type
+delegate void ThreadStart();
+
+ParameterizedThreadStart => is used to invoke any method with one argument of type object? and return type void
+delegate void ParameterizedThreadStart(object? data);
+
+Task => high-level abstraction over threads
+Task and Task<TResult>
+
+delegate void Action();
+Task.Run()
+
+delegate TResult Action<out TResult>();
+Task<TResult>.Run<TResult>()
+
+Parallel.Invoke();
+
+
+
+
+
+
+
+
+
+
