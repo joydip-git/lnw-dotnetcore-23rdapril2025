@@ -7,15 +7,21 @@ namespace LnW.DotNet.PmsApp.DataAccessLayer.Implementations
 {
     public class ProductDao : IPmsDao<Product, string>
     {
-        public bool Delete(string id)
+        public async Task<bool> Delete(string id)
         {
             try
             {
-                if (Exists(id))
+                if (await Exists(id))
                 {
-                    var found = Find(id);
-                    var done = Products.Remove(found);
-                    return done;
+                    var found = await Find(id);
+                    if (found != null)
+                    {
+                        var done = (await Products())?.Remove(found);
+
+                        return done.Value;
+                    }
+                    else
+                        return false;
                 }
                 else
                     return false;
@@ -26,14 +32,14 @@ namespace LnW.DotNet.PmsApp.DataAccessLayer.Implementations
             }
         }
 
-        public Product? Get(string id)
+        public async Task<Product?> Get(string id)
         {
             try
             {
-                if (!Exists(id))
+                if (!await Exists(id))
                     return null;
                 else
-                    return Find(id);
+                    return await Find(id);
             }
             catch (Exception)
             {
@@ -41,11 +47,11 @@ namespace LnW.DotNet.PmsApp.DataAccessLayer.Implementations
             }
         }
 
-        public Product[]? GetAll()
+        public async Task<Product[]?> GetAll()
         {
             try
             {
-                return Products.ToArray();
+                return (await Products())?.ToArray();
             }
             catch (Exception)
             {
@@ -53,11 +59,12 @@ namespace LnW.DotNet.PmsApp.DataAccessLayer.Implementations
             }
         }
 
-        public bool Insert(Product data)
+        public async Task<bool> Insert(Product data)
         {
             try
             {
-                Products.Add(data);
+                var records = await Products();
+                records?.Add(data);
                 return true;
             }
             catch (Exception)
@@ -66,20 +73,20 @@ namespace LnW.DotNet.PmsApp.DataAccessLayer.Implementations
             }
         }
 
-        public bool Update(string id, Product data)
+        public async Task<bool> Update(string id, Product data)
         {
             try
             {
-                if (!Exists(id))
+                if (!await Exists(id))
                     return false;
                 else
                 {
-                    Product found = Find(id);
+                    Product found = await Find(id);
                     found.Name = data.Name;
                     found.Description = data.Description;
                     found.Price = data.Price;
                     found.Make = data.Make;
-                    found.Year = data.Year;                    
+                    found.Year = data.Year;
 
                     return true;
                 }
@@ -91,9 +98,9 @@ namespace LnW.DotNet.PmsApp.DataAccessLayer.Implementations
         }
 
         #region Helper Methods
-        private bool Exists(string id) => Products.Any(p => p.Id == id);
+        private static async Task<bool> Exists(string id) => (await Products()).Any(p => p.Id == id);
 
-        private Product Find(string id) => Products.Where(p => p.Id == id).First();
+        private static async Task<Product> Find(string id) => (await Products()).Where(p => p.Id == id).First();
         #endregion
 
     }

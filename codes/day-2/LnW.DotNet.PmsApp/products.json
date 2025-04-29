@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "PRO-0001",
+    "Name": "Dell XPS",
+    "Description": "New laptop from Dell",
+    "Price": 130000,
+    "Year": 2019,
+    "Make": "Dell"
+  },
+  {
+    "Id": "PRO-0002",
+    "Name": "Hp probook",
+    "Description": "new laptop from HP",
+    "Price": 120000,
+    "Year": 2018,
+    "Make": "HP"
+  }
+]

@@ -2,12 +2,12 @@
 {
     public interface IPmsDao<T, TId> where T : class
     {
-        bool Insert(T data);
-        bool Delete(TId id);
-        bool Update(TId id, T data);
-        T? Get(TId id);
+        Task<bool> Insert(T data);
+        Task<bool> Delete(TId id);
+        Task<bool> Update(TId id, T data);
+        Task<T?> Get(TId id);
         //IEnumerable<T>? GetAll();
-        T[]? GetAll();
+        Task<T[]?> GetAll();
     }
     //public interface IProductDao : IPmsDao<Product, string>
     //{

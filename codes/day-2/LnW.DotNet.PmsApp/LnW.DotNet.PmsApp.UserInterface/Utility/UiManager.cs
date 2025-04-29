@@ -63,13 +63,13 @@ namespace LnW.DotNet.PmsApp.UserInterface.Utility
             }
         }
 
-        private void ShowAllProducts(int? choice = null)
+        private async Task ShowAllProducts(int? choice = null)
         {
             try
             {
                 IEnumerable<Product>? allProducts;
                 if (choice == null)
-                    allProducts = _pmsBo.FetchAll();
+                    allProducts = await _pmsBo.FetchAll();
                 else
                 {
                     SortChoice sortChoice = choice switch
@@ -81,7 +81,7 @@ namespace LnW.DotNet.PmsApp.UserInterface.Utility
                         5 => SortChoice.SortByYear,
                         _ => SortChoice.SortById
                     };
-                    allProducts = _pmsBo.FetchAll(sortChoice);
+                    allProducts = await _pmsBo.FetchAll(sortChoice);
                 }
                 if (allProducts != null)
                     foreach (var item in allProducts)
@@ -98,14 +98,14 @@ namespace LnW.DotNet.PmsApp.UserInterface.Utility
             }
         }
 
-        private void ShowProduct()
+        private async Task ShowProduct()
         {
             try
             {
                 string? id = GetId();
                 if (id != null)
                 {
-                    var found = _pmsBo.Fetch(id);
+                    var found = await _pmsBo.Fetch(id);
                     Console.WriteLine(found?.ToString());
                 }
                 else
@@ -125,16 +125,16 @@ namespace LnW.DotNet.PmsApp.UserInterface.Utility
             }
         }
 
-        private void UpdateExistingProduct()
+        private async Task UpdateExistingProduct()
         {
             try
             {
                 string? id = GetId();
                 if (id != null)
                 {
-                    var found = _pmsBo.Fetch(id);
+                    var found = await _pmsBo.Fetch(id);
                     var productToUpdate = CreateProduct(found);
-                    var result = _pmsBo.Modify(id, productToUpdate);
+                    var result = await _pmsBo.Modify(id, productToUpdate);
                     Console.WriteLine(result ? UPDATE_SUCCESS_MESSAGE : UPDATE_FAILED_MESSAGE);
                 }
                 else
@@ -146,12 +146,12 @@ namespace LnW.DotNet.PmsApp.UserInterface.Utility
             }
         }
 
-        private void AddNewProduct()
+        private async Task AddNewProduct()
         {
             try
             {
                 var productToAdd = CreateProduct();
-                var result = _pmsBo.Add(productToAdd);
+                var result = await _pmsBo.Add(productToAdd);
                 Console.WriteLine(result ? ADD_SUCCESS_MESSAGE : ADD_FAILED_MESSAGE);
             }
             catch (Exception ex)
@@ -160,14 +160,14 @@ namespace LnW.DotNet.PmsApp.UserInterface.Utility
             }
         }
 
-        private void DeleteExistingProduct()
+        private async Task DeleteExistingProduct()
         {
             try
             {
                 string? id = GetId();
                 if (id != null)
                 {
-                    var result = _pmsBo.Remove(id);
+                    var result = await _pmsBo.Remove(id);
                     Console.WriteLine(result ? DELETE_SUCCESS_MESSAGE : DELETE_FAILED_MESSAGE);
                 }
                 else
@@ -211,6 +211,7 @@ namespace LnW.DotNet.PmsApp.UserInterface.Utility
                 throw;
             }
         }
+
         private static void DecideToContinue(ref char decision)
         {
             try
@@ -224,7 +225,8 @@ namespace LnW.DotNet.PmsApp.UserInterface.Utility
                 throw;
             }
         }
-        public void RunApp()
+
+        public async Task RunApp()
         {
             char toContinue = 'n';
             do
@@ -234,29 +236,29 @@ namespace LnW.DotNet.PmsApp.UserInterface.Utility
                 switch (choice)
                 {
                     case 1:
-                        ShowAllProducts();
+                        await ShowAllProducts();
                         break;
 
                     case 2:
-                        ShowProduct();
+                        await ShowProduct();
                         break;
 
                     case 3:
-                        AddNewProduct();
+                        await AddNewProduct();
                         break;
 
                     case 4:
-                        ShowAllProducts();
-                        UpdateExistingProduct();
+                        await ShowAllProducts();
+                        await UpdateExistingProduct();
                         break;
 
                     case 5:
-                        ShowAllProducts();
-                        DeleteExistingProduct();
+                        await ShowAllProducts();
+                        await DeleteExistingProduct();
                         break;
 
                     case 6:
-                        Process.GetCurrentProcess().Kill();
+                        await Process.GetCurrentProcess().WaitForExitAsync();
                         break;
 
                     default:

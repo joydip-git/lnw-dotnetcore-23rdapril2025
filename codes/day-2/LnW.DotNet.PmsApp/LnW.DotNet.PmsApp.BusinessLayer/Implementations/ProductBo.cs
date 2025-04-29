@@ -12,13 +12,13 @@ namespace LnW.DotNet.PmsApp.BusinessLayer.Implementations
 
         //public ProductBo(IPmsDao<Product, string> _pmsDao) => this._pmsDao = _pmsDao;
 
-        public bool Add(Product data)
+        public async Task<bool> Add(Product data)
         {
             try
             {
                 if (ValidateProduct(data))
                 {
-                    string? lastId = FetchAll()?.Last().Id;
+                    string? lastId = (await FetchAll())?.Last().Id;
 
                     if (lastId != null)
                     {
@@ -26,7 +26,7 @@ namespace LnW.DotNet.PmsApp.BusinessLayer.Implementations
                     }
                     else
                         data.Id = AutoGenerateProductId();
-                    return _pmsDao.Insert(data);
+                    return await _pmsDao.Insert(data);
                 }
                 else
                     throw new InvalidOperationException($"check {nameof(Product)} object..it is either null reference or one or more data is missing");
@@ -37,14 +37,14 @@ namespace LnW.DotNet.PmsApp.BusinessLayer.Implementations
             }
         }
 
-        public Product? Fetch(string id)
+        public async Task<Product?> Fetch(string id)
         {
             try
             {
                 Product? p = null;
                 if (ValidateProductId(id))
                 {
-                    p = _pmsDao.Get(id);
+                    p = await _pmsDao.Get(id);
                 }
                 if (p == null)
                     throw new Exception($"no {nameof(Product)} found with given {nameof(id)}");
@@ -61,11 +61,11 @@ namespace LnW.DotNet.PmsApp.BusinessLayer.Implementations
         //{
         //    return null;
         //}
-        public ImmutableArray<Product>? FetchAll(SortChoice sortChoice = SortChoice.SortById)
+        public async Task<ImmutableArray<Product>?> FetchAll(SortChoice sortChoice = SortChoice.SortById)
         {
             try
             {
-                var products = _pmsDao.GetAll();
+                var products = await _pmsDao.GetAll();
                 if (products?.Length > 0)
                 {
                     return SortProducts(products, sortChoice).ToImmutableArray();
@@ -79,11 +79,11 @@ namespace LnW.DotNet.PmsApp.BusinessLayer.Implementations
             }
         }
 
-        public bool Modify(string id, Product data)
+        public async Task<bool> Modify(string id, Product data)
         {
             try
             {
-                return ValidateProductId(id) && ValidateProduct(data) && _pmsDao.Update(id, data);
+                return ValidateProductId(id) && ValidateProduct(data) && await _pmsDao.Update(id, data);
             }
             catch (Exception)
             {
@@ -91,11 +91,11 @@ namespace LnW.DotNet.PmsApp.BusinessLayer.Implementations
             }
         }
 
-        public bool Remove(string id)
+        public async Task<bool> Remove(string id)
         {
             try
             {
-                return ValidateProductId(id) && _pmsDao.Delete(id);
+                return ValidateProductId(id) && await _pmsDao.Delete(id);
             }
             catch (Exception)
             {
